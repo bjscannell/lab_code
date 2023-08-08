@@ -1,6 +1,11 @@
 
-# this is a function that takes all your detection csvs and combines them 
-# into one dataframe
+#' Combine exported csvs frome vue into a 
+#' dataframe with proper column formatting
+#' 
+#' @param is empty
+#' @returns A dataframe.
+#' @examples
+#' load_vue_files()
 
 load_vue_files <- function() {
   
