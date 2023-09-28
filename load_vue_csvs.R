@@ -40,3 +40,5 @@ load_vue_files <- function(project) {
   return(detections)
   
 }
+
+print("hello world")
