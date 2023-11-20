@@ -2,12 +2,12 @@
 #' Combine exported csvs frome vue into a 
 #' dataframe with proper column formatting
 #' 
-#' @param is empty
+#' @param is the defining project identifier e.g. "artificial"
 #' @returns A dataframe.
 #' @examples
 #' load_vue_files()
 
-load_vue_files <- function() {
+load_vue_files <- function(project) {
   
   library(tidyverse)
   library(lubridate)
@@ -29,7 +29,8 @@ load_vue_files <- function() {
   )
   
   detections <- tibble()
-  for (detfile in list.files('.', full.names = TRUE, recursive = TRUE, pattern = "Detections")) {
+  for (detfile in intersect(list.files('.', full.names = TRUE, recursive = TRUE, pattern = "detections", ignore.case = TRUE),
+                            list.files('.', full.names = TRUE, recursive = TRUE, pattern = paste(project), ignore.case = TRUE))) {
     print(detfile)
     tmp_dets <- read_csv(detfile, col_types = format)
     detections <- bind_rows(detections, tmp_dets)
