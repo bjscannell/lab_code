@@ -5,7 +5,7 @@
 #' @param is the file that contains the subdirectories.
 #' @returns A dataframe.
 #' @examples
-#' load_vue_files()
+#' load_vps_files()
 
 load_vps_files <- function() {
   
