@@ -66,11 +66,11 @@ load_vps_files <- function() {
     
     return(combined_data)
   }
+}
   
-  # Example usage:
+# Example usage:
   
   # call the function from github
-  source("https://raw.githubusercontent.com/bjscannell/lab_code/master/load_vps_csvs.R")
-  
-  combined_data <- load_vps_files("detections")
-  
+source("https://raw.githubusercontent.com/bjscannell/lab_code/master/load_vps_csvs.R")
+
+combined_data <- load_vps_files("detections")  
