@@ -41,10 +41,3 @@ load_vue_files <- function(project) {
   
 }
 
-
-# Example usage:
-
-#load the function from github
-source("https://raw.githubusercontent.com/bjscannell/lab_code/master/load_vue_csvs.R")
-
-combined_data <- load_vue_files()
