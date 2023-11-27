@@ -36,10 +36,7 @@ load_vps_files <- function() {
     `Latitude` = col_double()
   )
   
-  
-  
-  load_vps_files <- function(main_folder) {
-    # Get a list of all subdirectories with names containing "results"
+
     subdirs <- list.dirs(path = "detections", full.names = TRUE, recursive = F)
     
     
@@ -66,7 +63,7 @@ load_vps_files <- function() {
     
     return(combined_data)
   }
-}
+
   
 # Example usage:
   
