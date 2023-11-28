@@ -12,6 +12,7 @@ load_vps_files <- function() {
   library(tidyverse)
   library(lubridate)
   library(utils)
+  library(progress)
   
   
   format <- cols( 
@@ -35,31 +36,34 @@ load_vps_files <- function() {
     `Longitude` = col_double(),
     `Latitude` = col_double()
   )
-  
 
-    subdirs <- list.dirs(path = "detections", full.names = TRUE, recursive = F)
     
-    
+
     # Initialize an empty list to store data frames
     all_data_frames <- list()
     
-    # Loop through each subdirectory
-    for (subdir in subdirs) {
+
       # Get a list of all files in the subdirectory
-      files <- list.files(path = subdir, full.names = TRUE)
+      files <- list.files(path = "detections", pattern = "\\.csv$", recursive = TRUE, full.names = TRUE)
       
+      pb <- progress_bar$new(total = length(files))
       # Loop through each file and read it into a data frame
       for (file in files) {
+  
         # Example assuming CSV format
-        data <- read_csv(file, col_types = format)
+        data <-  suppressMessages(suppressWarnings(read_csv(file, col_types = format)))
         
         # Append the data frame to the list
         all_data_frames[[length(all_data_frames) + 1]] <- data
+        
+        pb$tick()
+       
       }
-    }
+
     
     # Combine all data frames into a single data frame
     combined_data <- do.call(rbind, all_data_frames)
     
     return(combined_data)
   }
+
