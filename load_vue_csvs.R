@@ -29,11 +29,18 @@ load_vue_files <- function(project) {
   )
   
   detections <- tibble()
-  for (detfile in intersect(list.files('.', full.names = TRUE, recursive = TRUE, pattern = "detections", ignore.case = TRUE),
-                            list.files('.', full.names = TRUE, recursive = TRUE, pattern = paste(project), ignore.case = TRUE))) {
+  
+  files <- intersect(list.files('.', full.names = TRUE, recursive = TRUE, pattern = "detections", ignore.case = TRUE),
+                     list.files('.', full.names = TRUE, recursive = TRUE, pattern = paste(project), ignore.case = TRUE))
+  
+  pb <- progress::progress_bar$new(total = length(files))
+  
+  for (detfile in files) {
     print(detfile)
-    tmp_dets <- read_csv(detfile, col_types = format)
+    tmp_dets <-  suppressMessages(suppressWarnings(read_csv(detfile, col_types = format)))
     detections <- bind_rows(detections, tmp_dets)
+    
+    pb$tick()
   }
   
   
