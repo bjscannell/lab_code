@@ -1,55 +1,55 @@
 ﻿cluster,x.unit,tag_model,tag_serial_number,tag_sensor_type,tag_life,tagger,common_name,total_length_m,life_stage,sex,release_location,project,total_detections,days_at_liberty,days_monitored,days_detected,residency_max,residency_min,residency_ratio,residency_category,consecutive_days,highest_detection_month,artificial_reefs,n_reefs
-1,teleost,V13AP-1x,139542,Acc&Press,365,BS,Striped Bass,0.63,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,151260,None,895,MF,Black Sea Bass,0.367,NA,U,Montauk,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,151261,None,895,AN,Summer Flounder,0.56,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1365463,Acc&Press,365,KD,Summer Flounder,0.387,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-2,teleost,V9-2x,1367669,None,895,BS,Tautog,0.381,Mature,U,Shinnecock Reef,NYSDEC,210030,351,679,349,0.994301994,0.513991163,0.516936672,Resident,194,10,Shinnecock,1
+3,teleost,V13AP-1x,139542,Acc&Press,365,BS,Striped Bass,0.63,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,151260,None,895,MF,Black Sea Bass,0.367,NA,U,Montauk,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,151261,None,895,AN,Summer Flounder,0.56,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1365463,Acc&Press,365,KD,Summer Flounder,0.387,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+1,teleost,V9-2x,1367669,None,895,BS,Tautog,0.381,Mature,U,Shinnecock Reef,NYSDEC,210030,351,679,349,0.994301994,0.513991163,0.516936672,Resident,194,10,Shinnecock,1
 2,teleost,V9-2x,1367693,None,895,LI,Black Sea Bass,0.39,Mature,U,Shinnecock Reef,NYSDEC,2453,5,488,5,1,0.010245902,0.010245902,Transient,5,6,Shinnecock,1
-2,teleost,V9-2x,1367695,None,895,BS,Tautog,0.321,Mature,U,Shinnecock Reef,NYSDEC,158931,689,679,271,0.393323657,0.399116348,1.014727541,Intermittent Resident,43,1,Shinnecock,1
-2,teleost,V9-2x,1367697,None,895,BS,Tautog,0.353,Mature,U,Shinnecock Reef,NYSDEC,198229,699,679,589,0.842632332,0.867452135,1.029455081,Resident,146,11,Shinnecock,1
+1,teleost,V9-2x,1367695,None,895,BS,Tautog,0.321,Mature,U,Shinnecock Reef,NYSDEC,158931,689,679,271,0.393323657,0.399116348,1.014727541,Intermittent Resident,43,1,Shinnecock,1
+1,teleost,V9-2x,1367697,None,895,BS,Tautog,0.353,Mature,U,Shinnecock Reef,NYSDEC,198229,699,679,589,0.842632332,0.867452135,1.029455081,Resident,146,11,Shinnecock,1
 2,teleost,V9-2x,1367698,None,895,BS,Black Sea Bass,0.56,Mature,U,Shinnecock Reef,NYSDEC,43849,61,488,61,1,0.125,0.125,Transient,61,7,Shinnecock,1
-1,teleost,V9-2x,1367700,None,895,BS,Black Sea Bass,0.62,Mature,U,Shinnecock Mile Bouy,NYSDEC,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2x,1367700,None,895,BS,Black Sea Bass,0.62,Mature,U,Shinnecock Mile Bouy,NYSDEC,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2x,1367701,None,895,AS,Black Sea Bass,0.267,Mature,U,Shinnecock Reef,NYSDEC,12174,16,710,16,1,0.022535211,0.022535211,Transient,16,11,"Shinnecock,Fire Island",2
 2,teleost,V9-2x,1367702,None,895,GM,Black Sea Bass,0.302,Mature,U,Shinnecock Reef,NYSDEC,3031,228,710,15,0.065789474,0.021126761,0.321126761,Transient,14,6,"Moriches,Shinnecock",2
-2,teleost,V9-2x,1367703,None,895,BS,Tautog,0.25,Mature,U,Shinnecock Reef,NYSDEC,558001,712,679,580,0.814606742,0.854197349,1.048600884,Resident,185,5,Shinnecock,1
+1,teleost,V9-2x,1367703,None,895,BS,Tautog,0.25,Mature,U,Shinnecock Reef,NYSDEC,558001,712,679,580,0.814606742,0.854197349,1.048600884,Resident,185,5,Shinnecock,1
 2,teleost,V9-2x,1367704,None,895,BS,Tautog,0.244,Mature,U,Shinnecock Reef,NYSDEC,67298,330,679,169,0.512121212,0.248895434,0.486008837,Transient,33,10,Shinnecock,1
-2,teleost,V9-2x,1367705,None,895,BS,Tautog,0.369,Mature,U,Shinnecock Reef,NYSDEC,62036,499,679,210,0.420841683,0.309278351,0.734904271,Intermittent Resident,101,4,Shinnecock,1
+1,teleost,V9-2x,1367705,None,895,BS,Tautog,0.369,Mature,U,Shinnecock Reef,NYSDEC,62036,499,679,210,0.420841683,0.309278351,0.734904271,Intermittent Resident,101,4,Shinnecock,1
 2,teleost,V9-2x,1367706,None,895,BS,Black Sea Bass,0.354,Mature,U,Shinnecock Reef,NYSDEC,48428,372,488,198,0.532258065,0.405737705,0.762295082,Intermittent Resident,104,11,Shinnecock,1
-2,teleost,V9-2x,1367707,None,895,LI,Black Sea Bass,0.38,Mature,U,Shinnecock Reef,NYSDEC,234674,390,488,151,0.387179487,0.30942623,0.799180328,Intermittent Resident,92,6,Shinnecock,1
-2,teleost,V9-2x,1367708,None,895,BS,Tautog,0.372,Mature,U,Shinnecock Reef,NYSDEC,183801,399,710,370,0.927318296,0.521126761,0.561971831,Resident,224,11,Shinnecock,1
+1,teleost,V9-2x,1367707,None,895,LI,Black Sea Bass,0.38,Mature,U,Shinnecock Reef,NYSDEC,234674,390,488,151,0.387179487,0.30942623,0.799180328,Intermittent Resident,92,6,Shinnecock,1
+1,teleost,V9-2x,1367708,None,895,BS,Tautog,0.372,Mature,U,Shinnecock Reef,NYSDEC,183801,399,710,370,0.927318296,0.521126761,0.561971831,Resident,224,11,Shinnecock,1
 2,teleost,V9-2x,1367709,None,895,BS,Tautog,0.41,Mature,U,Shinnecock Reef,NYSDEC,32026,133,679,130,0.977443609,0.191458027,0.195876289,Transient,72,12,Shinnecock,1
 2,teleost,V9-2x,1367710,None,895,BS,Tautog,0.33,Mature,U,Shinnecock Reef,NYSDEC,28581,165,679,137,0.83030303,0.201767305,0.243004418,Transient,29,4,Shinnecock,1
 2,teleost,V9-2x,1367711,None,895,BS,Tautog,0.25,Mature,U,Shinnecock Reef,NYSDEC,10293,519,679,83,0.159922929,0.122238586,0.764359352,Intermittent Resident,13,4,Shinnecock,1
 2,teleost,V9-2x,1367712,None,895,LI,Black Sea Bass,0.412,Mature,U,Shinnecock Reef,NYSDEC,65125,103,488,103,1,0.211065574,0.211065574,Transient,103,7,Shinnecock,1
 2,teleost,V9-2x,1367713,None,895,JQ,Black Sea Bass,0.335,Mature,U,Shinnecock Reef,NYSDEC,1465,12,488,12,1,0.024590164,0.024590164,Transient,12,6,Shinnecock,1
-2,teleost,V9-2x,1367715,None,895,GM,Tautog,0.4,Mature,U,Shinnecock Reef,NYSDEC,255329,550,710,434,0.789090909,0.611267606,0.774647887,Resident,73,11,"Fire Island,Shinnecock",2
+1,teleost,V9-2x,1367715,None,895,GM,Tautog,0.4,Mature,U,Shinnecock Reef,NYSDEC,255329,550,710,434,0.789090909,0.611267606,0.774647887,Resident,73,11,"Fire Island,Shinnecock",2
 2,teleost,V9-2x,1367716,None,895,BS,Tautog,0.34,Mature,U,Shinnecock Reef,NYSDEC,39747,161,679,71,0.440993789,0.104565538,0.237113402,Transient,31,12,Shinnecock,1
 2,teleost,V9-2x,1367717,None,895,JQ,Black Sea Bass,0.385,Mature,U,Shinnecock Reef,NYSDEC,38729,92,488,87,0.945652174,0.178278689,0.18852459,Transient,86,8,"Shinnecock,Twelve Mile",2
-2,teleost,V9-2x,1367718,None,895,BS,Tautog,0.341,Mature,U,Shinnecock Reef,NYSDEC,75023,520,679,179,0.344230769,0.263622975,0.765832106,Intermittent Resident,152,4,"Shinnecock,Moriches",2
+1,teleost,V9-2x,1367718,None,895,BS,Tautog,0.341,Mature,U,Shinnecock Reef,NYSDEC,75023,520,679,179,0.344230769,0.263622975,0.765832106,Intermittent Resident,152,4,"Shinnecock,Moriches",2
 2,teleost,V9-2x,1367719,None,895,BS,Tautog,0.33,Mature,U,Shinnecock Reef,NYSDEC,43268,147,679,144,0.979591837,0.212076583,0.216494845,Transient,79,12,Shinnecock,1
 2,teleost,V9-2x,1367720,None,895,JQ,Black Sea Bass,0.345,Mature,U,Shinnecock Reef,NYSDEC,69146,106,488,106,1,0.217213115,0.217213115,Transient,106,8,Shinnecock,1
 2,teleost,V9-2x,1367721,None,895,BS,Black Sea Bass,0.39,Mature,U,Shinnecock Reef,NYSDEC,54857,82,488,82,1,0.168032787,0.168032787,Transient,82,8,Shinnecock,1
-1,teleost,V9-2x,1367722,None,895,BS,Tautog,0.351,Mature,U,Shinnecock Reef,NYSDEC,0,0,0,0,0,0,0,None,0,0,NA,0
-2,teleost,V9-2x,1367723,None,895,BS,Tautog,0.375,Mature,U,Shinnecock Reef,NYSDEC,112621,320,679,298,0.93125,0.438880707,0.471281296,Transient,147,6,Shinnecock,1
-2,teleost,V9-2x,1367724,None,895,BS,Tautog,0.396,Mature,U,Shinnecock Reef,NYSDEC,354983,579,679,559,0.965457686,0.823269514,0.852724595,Resident,250,5,Shinnecock,1
+3,teleost,V9-2x,1367722,None,895,BS,Tautog,0.351,Mature,U,Shinnecock Reef,NYSDEC,0,0,0,0,0,0,0,None,0,0,NA,0
+1,teleost,V9-2x,1367723,None,895,BS,Tautog,0.375,Mature,U,Shinnecock Reef,NYSDEC,112621,320,679,298,0.93125,0.438880707,0.471281296,Transient,147,6,Shinnecock,1
+1,teleost,V9-2x,1367724,None,895,BS,Tautog,0.396,Mature,U,Shinnecock Reef,NYSDEC,354983,579,679,559,0.965457686,0.823269514,0.852724595,Resident,250,5,Shinnecock,1
 2,teleost,V9-2x,1367725,None,895,BS,Black Sea Bass,0.375,Mature,U,Shinnecock Mile Bouy,NYSDEC,100,2,821,2,1,0.002436054,0.002436054,Transient,2,8,Shinnecock,1
 2,teleost,V9-2x,1367726,None,895,LI,Black Sea Bass,0.345,Mature,U,Shinnecock Reef,NYSDEC,23697,67,488,67,1,0.137295082,0.137295082,Transient,67,7,Shinnecock,1
-2,teleost,V9-2x,1367727,None,895,JQ,Black Sea Bass,0.355,Mature,U,Shinnecock Reef,NYSDEC,227009,459,488,232,0.505446623,0.475409836,0.94057377,Intermittent Resident,120,7,Shinnecock,1
+1,teleost,V9-2x,1367727,None,895,JQ,Black Sea Bass,0.355,Mature,U,Shinnecock Reef,NYSDEC,227009,459,488,232,0.505446623,0.475409836,0.94057377,Intermittent Resident,120,7,Shinnecock,1
 2,teleost,V9-2x,1367728,None,895,BS,Black Sea Bass,0.39,Mature,U,Shinnecock Mile Bouy,NYSDEC,52729,375,821,115,0.306666667,0.140073082,0.456760049,Transient,51,8,"Shinnecock,Twelve Mile",2
-2,teleost,V9-2x,1367729,None,895,BS,Black Sea Bass,0.34,Mature,U,Shinnecock Mile Bouy,NYSDEC,328754,840,821,778,0.926190476,0.947624848,1.023142509,Resident,345,1,Shinnecock,1
-2,teleost,V9-2x,1367730,None,895,BS,Tautog,0.36,Mature,U,Shinnecock Reef,NYSDEC,373195,712,679,601,0.844101124,0.885125184,1.048600884,Resident,401,12,Shinnecock,1
+1,teleost,V9-2x,1367729,None,895,BS,Black Sea Bass,0.34,Mature,U,Shinnecock Mile Bouy,NYSDEC,328754,840,821,778,0.926190476,0.947624848,1.023142509,Resident,345,1,Shinnecock,1
+1,teleost,V9-2x,1367730,None,895,BS,Tautog,0.36,Mature,U,Shinnecock Reef,NYSDEC,373195,712,679,601,0.844101124,0.885125184,1.048600884,Resident,401,12,Shinnecock,1
 2,teleost,V9-2x,1367731,None,895,BS,Tautog,0.375,Mature,U,Shinnecock Reef,NYSDEC,7196,46,679,43,0.934782609,0.063328424,0.067746686,Transient,33,12,Shinnecock,1
-2,teleost,V9-2x,1367732,None,895,BS,Black Sea Bass,0.375,Mature,M,Shinnecock Reef,NYSDEC,265293,420,488,152,0.361904762,0.31147541,0.860655738,Intermittent Resident,86,6,Shinnecock,1
+1,teleost,V9-2x,1367732,None,895,BS,Black Sea Bass,0.375,Mature,M,Shinnecock Reef,NYSDEC,265293,420,488,152,0.361904762,0.31147541,0.860655738,Intermittent Resident,86,6,Shinnecock,1
 2,teleost,V9-2x,1367733,None,895,BS,Black Sea Bass,0.38,Mature,U,Shinnecock Mile Bouy,NYSDEC,9675,247,821,23,0.093117409,0.028014616,0.300852619,Transient,21,8,Shinnecock,1
 2,teleost,V13AP-1x,1395264,Acc&Press,365,MF,Striped Bass,0.648,NA,U,NA,Southfork,202,4,711,4,1,0.005625879,0.005625879,Transient,4,11,Kismet,1
-1,teleost,V13AP-1x,1395265,Acc&Press,365,MF,Striped Bass,0.595,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395265,Acc&Press,365,MF,Striped Bass,0.595,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395266,Acc&Press,365,MF,Striped Bass,0.614,NA,U,NA,Southfork,27,378,711,2,0.005291005,0.00281294,0.53164557,Intermittent Resident,1,11,"Kismet,Yellowbar",2
 2,teleost,V13AP-1x,1395268,Acc&Press,365,MF,Striped Bass,0.714,NA,U,NA,Southfork,7,1,711,1,1,0.00140647,0.00140647,Transient,1,10,Rockaway,1
 2,teleost,V13AP-1x,1395269,Acc&Press,365,MF,Striped Bass,0.795,NA,U,NA,Southfork,4,25,711,2,0.08,0.00281294,0.035161744,Transient,1,11,Kismet,1
 2,teleost,V13AP-1x,1395270,Acc&Press,365,MF,Striped Bass,0.789,NA,U,NA,Southfork,32,376,711,5,0.013297872,0.007032349,0.52883263,Intermittent Resident,1,11,"Kismet,Fire Island,Atlantic Beach",3
 2,teleost,V13AP-1x,1395271,Acc&Press,365,MF,Striped Bass,0.643,NA,U,NA,Southfork,18,1,711,1,1,0.00140647,0.00140647,Transient,1,11,Kismet,1
-1,teleost,V13AP-1x,1395273,Acc&Press,365,MF,Striped Bass,0.731,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395274,Acc&Press,365,MF,Striped Bass,0.654,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395273,Acc&Press,365,MF,Striped Bass,0.731,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395274,Acc&Press,365,MF,Striped Bass,0.654,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395275,Acc&Press,365,MF,Striped Bass,0.745,NA,U,NA,Southfork,182,8,711,6,0.75,0.008438819,0.011251758,Transient,3,11,"Kismet,Fire Island",2
 2,teleost,V13AP-1x,1395276,Acc&Press,365,MF,Striped Bass,0.746,NA,U,NA,Southfork,58,24,711,3,0.125,0.004219409,0.033755274,Transient,1,12,"Kismet,Fire Island",2
 2,teleost,V13AP-1x,1395277,Acc&Press,365,MF,Striped Bass,0.643,NA,U,NA,Southfork,6,1,711,1,1,0.00140647,0.00140647,Transient,1,11,Hempstead,1
@@ -59,180 +59,180 @@
 2,teleost,V13AP-1x,1395281,Acc&Press,365,MF,Striped Bass,0.617,NA,U,NA,Southfork,65,3,711,3,1,0.004219409,0.004219409,Transient,3,11,Kismet,1
 2,teleost,V13AP-1x,1395282,Acc&Press,365,MF,Striped Bass,0.692,NA,U,NA,Southfork,7,363,711,2,0.005509642,0.00281294,0.510548523,Intermittent Resident,1,11,"Kismet,Rockaway",2
 2,teleost,V13AP-1x,1395283,Acc&Press,365,MF,Striped Bass,1.01,NA,U,NA,Southfork,124,382,711,12,0.031413613,0.016877637,0.537271449,Intermittent Resident,2,11,"Fire Island,Atlantic Beach,Hempstead,McAllister",4
-1,teleost,V13AP-1x,1395284,Acc&Press,365,MF,Striped Bass,0.71,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395285,Acc&Press,365,MF,Striped Bass,0.713,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395284,Acc&Press,365,MF,Striped Bass,0.71,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395285,Acc&Press,365,MF,Striped Bass,0.713,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395286,Acc&Press,365,MF,Striped Bass,0.611,NA,U,NA,Southfork,84,2,707,2,1,0.002828854,0.002828854,Transient,2,11,Kismet,1
 2,teleost,V13AP-1x,1395287,Acc&Press,365,MF,Striped Bass,0.511,NA,U,NA,Southfork,13,359,709,4,0.011142061,0.005641749,0.506346968,Intermittent Resident,2,4,"Kismet,Yellowbar",2
-1,teleost,V13AP-1x,1395288,Acc&Press,365,MF,Striped Bass,0.476,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395288,Acc&Press,365,MF,Striped Bass,0.476,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395289,Acc&Press,365,MF,Striped Bass,0.607,NA,U,NA,Southfork,41,171,707,5,0.029239766,0.007072136,0.241867044,Transient,2,11,Kismet,1
-1,teleost,V13AP-1x,1395290,Acc&Press,365,MF,Striped Bass,0.671,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395290,Acc&Press,365,MF,Striped Bass,0.671,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395291,Acc&Press,365,MF,Striped Bass,0.583,NA,U,NA,Southfork,37,1,707,1,1,0.001414427,0.001414427,Transient,1,11,Kismet,1
 2,teleost,V13AP-1x,1395292,Acc&Press,365,MF,Striped Bass,0.651,NA,U,NA,Southfork,3,1,707,1,1,0.001414427,0.001414427,Transient,1,5,Kismet,1
-1,teleost,V13AP-1x,1395293,Acc&Press,365,MF,Striped Bass,0.581,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395294,Acc&Press,365,MF,Striped Bass,0.636,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395293,Acc&Press,365,MF,Striped Bass,0.581,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395294,Acc&Press,365,MF,Striped Bass,0.636,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395295,Acc&Press,365,MF,Striped Bass,0.726,NA,U,NA,Southfork,66,2,707,2,1,0.002828854,0.002828854,Transient,2,11,Kismet,1
-1,teleost,V13AP-1x,1395296,Acc&Press,365,MF,Striped Bass,0.574,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395297,Acc&Press,365,MF,Striped Bass,0.536,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395296,Acc&Press,365,MF,Striped Bass,0.574,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395297,Acc&Press,365,MF,Striped Bass,0.536,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395298,Acc&Press,365,MF,Striped Bass,0.688,NA,U,NA,Southfork,37,205,707,5,0.024390244,0.007072136,0.289957567,Transient,2,11,"Kismet,Yellowbar,McAllister",3
 2,teleost,V13AP-1x,1395299,Acc&Press,365,MF,Striped Bass,0.665,NA,U,NA,Southfork,28,1,707,1,1,0.001414427,0.001414427,Transient,1,11,Fire Island,1
-1,teleost,V13AP-1x,1395300,Acc&Press,365,MF,Striped Bass,0.721,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395301,Acc&Press,365,MF,Striped Bass,0.517,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395302,Acc&Press,365,MF,Striped Bass,0.504,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395300,Acc&Press,365,MF,Striped Bass,0.721,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395301,Acc&Press,365,MF,Striped Bass,0.517,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395302,Acc&Press,365,MF,Striped Bass,0.504,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395303,Acc&Press,365,MF,Striped Bass,0.438,NA,U,NA,Southfork,71,18,696,6,0.333333333,0.00862069,0.025862069,Transient,5,11,Kismet,1
-1,teleost,V13AP-1x,1395304,Acc&Press,365,MF,Striped Bass,0.709,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395305,Acc&Press,365,NA,Striped Bass,0.497,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395304,Acc&Press,365,MF,Striped Bass,0.709,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395305,Acc&Press,365,NA,Striped Bass,0.497,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395306,Acc&Press,365,MF,Striped Bass,0.654,NA,U,NA,Southfork,18,1,696,1,1,0.001436782,0.001436782,Transient,1,11,Moriches,1
-1,teleost,V13AP-1x,1395307,Acc&Press,365,MF,Striped Bass,0.544,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395307,Acc&Press,365,MF,Striped Bass,0.544,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395308,Acc&Press,365,MF,Striped Bass,0.457,NA,U,NA,Southfork,34,377,690,7,0.018567639,0.010144928,0.546376812,Intermittent Resident,1,11,"Kismet,Yellowbar",2
-1,teleost,V13AP-1x,1395309,Acc&Press,365,JR,Striped Bass,0.475,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395309,Acc&Press,365,JR,Striped Bass,0.475,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395310,Acc&Press,365,AN,Striped Bass,0.492,NA,U,NA,Southfork,2,1,690,1,1,0.001449275,0.001449275,Transient,1,6,Kismet,1
-1,teleost,V13AP-1x,1395311,Acc&Press,365,AN,Striped Bass,0.77,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395312,Acc&Press,365,KD,Striped Bass,0.565,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395311,Acc&Press,365,AN,Striped Bass,0.77,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395312,Acc&Press,365,KD,Striped Bass,0.565,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395313,Acc&Press,365,TE,Striped Bass,0.998,NA,U,Great South Bay,Southfork,13,357,488,3,0.008403361,0.006147541,0.731557377,Intermittent Resident,1,10,"McAllister,Atlantic Beach",2
 2,teleost,V13AP-1x,1395314,Press&Temp,365,NA,Striped Bass,0.628,NA,U,Great South Bay,Southfork,33,202,497,3,0.014851485,0.006036217,0.406438632,Transient,2,11,"Yellowbar,Fire Island",2
 2,teleost,V13AP-1x,1395315,Acc&Press,365,FL,Striped Bass,0.546,NA,U,Great South Bay,Southfork,79,356,497,8,0.02247191,0.016096579,0.716297787,Intermittent Resident,3,5,"Kismet,Yellowbar",2
 2,teleost,V13AP-1x,1395316,Acc&Press,365,NA,Striped Bass,0.692,NA,U,Great South Bay,Southfork,139,203,497,15,0.073891626,0.030181087,0.408450704,Transient,2,11,"Yellowbar,Kismet,Hempstead",3
 2,teleost,V13AP-1x,1395317,Acc&Press,365,NA,Striped Bass,0.827,NA,U,Great South Bay,Southfork,52,350,488,3,0.008571429,0.006147541,0.717213115,Intermittent Resident,2,11,"Hempstead,Fire Island",2
 2,teleost,V13AP-1x,1395318,Acc&Press,365,KD,Striped Bass,0.69,NA,U,Moriches Bay,Southfork,57,166,473,6,0.036144578,0.012684989,0.350951374,Transient,2,11,"Yellowbar,Kismet,McAllister",3
-1,teleost,V13AP-1x,1395319,Acc&Press,365,KD,Striped Bass,0.495,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395320,Acc&Press,365,SH,Striped Bass,0.517,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395321,Acc&Press,365,KD,Striped Bass,0.565,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395319,Acc&Press,365,KD,Striped Bass,0.495,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395320,Acc&Press,365,SH,Striped Bass,0.517,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395321,Acc&Press,365,KD,Striped Bass,0.565,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395322,Acc&Press,365,KD,Striped Bass,0.52,NA,U,Shinnecock Canal,Southfork,5,139,472,2,0.014388489,0.004237288,0.294491525,Transient,1,12,"Rockaway,Yellowbar",2
-1,teleost,V13AP-1x,1395323,Acc&Press,365,KD,Striped Bass,0.575,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395324,Acc&Press,365,KD,Striped Bass,0.66,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395323,Acc&Press,365,KD,Striped Bass,0.575,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395324,Acc&Press,365,KD,Striped Bass,0.66,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395326,Acc&Press,365,KD,Striped Bass,0.54,NA,U,Moriches Bay,Southfork,9,2,473,2,1,0.00422833,0.00422833,Transient,2,11,Yellowbar,1
-1,teleost,V13AP-1x,1395327,Acc&Press,365,KD,Striped Bass,0.88,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395327,Acc&Press,365,KD,Striped Bass,0.88,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395328,Acc&Press,365,KD,Striped Bass,0.5,NA,U,Shinnecock Canal,Southfork,6,1,472,1,1,0.002118644,0.002118644,Transient,1,11,Rockaway,1
 2,teleost,V13AP-1x,1395329,Acc&Press,365,KD,Striped Bass,0.53,NA,U,Shinnecock Canal,Southfork,10,1,472,1,1,0.002118644,0.002118644,Transient,1,12,Rockaway,1
 2,teleost,V13AP-1x,1395330,Acc&Press,365,AN,Striped Bass,0.791,NA,U,Rockaway,Southfork,2,1,337,1,1,0.002967359,0.002967359,Transient,1,11,Fire Island,1
-1,teleost,V13AP-1x,1395331,Acc&Press,365,AN,Striped Bass,0.837,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395331,Acc&Press,365,AN,Striped Bass,0.837,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395332,Acc&Press,365,NA,Striped Bass,0.601,NA,U,NA,Southfork,10,357,696,3,0.008403361,0.004310345,0.512931034,Intermittent Resident,1,11,Kismet,1
 2,teleost,V13AP-1x,1395333,Acc&Press,365,MF,Striped Bass,0.693,NA,U,NA,Southfork,6,1,707,1,1,0.001414427,0.001414427,Transient,1,11,Rockaway,1
-1,teleost,V13AP-1x,1395334,Acc&Press,365,MF,Striped Bass,0.735,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395335,Acc&Press,365,MF,Striped Bass,0.725,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395334,Acc&Press,365,MF,Striped Bass,0.735,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395335,Acc&Press,365,MF,Striped Bass,0.725,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395336,Acc&Press,365,MF,Striped Bass,0.557,NA,U,NA,Southfork,18,360,703,3,0.008333333,0.004267425,0.512091038,Intermittent Resident,1,11,"Kismet,Yellowbar",2
-1,teleost,V13AP-1x,1395337,Acc&Press,365,MF,Striped Bass,0.738,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395337,Acc&Press,365,MF,Striped Bass,0.738,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395338,Acc&Press,365,MF,Striped Bass,0.469,NA,U,NA,Southfork,21,355,703,2,0.005633803,0.00284495,0.504978663,Intermittent Resident,1,11,"Kismet,Yellowbar",2
-1,teleost,V13AP-1x,1395339,Acc&Press,365,NA,Striped Bass,0.565,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395339,Acc&Press,365,NA,Striped Bass,0.565,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395340,Acc&Press,365,BS,Striped Bass,0.62,NA,U,Shinnecock Bay,Southfork,6,151,355,3,0.01986755,0.008450704,0.425352113,Transient,1,11,"Yellowbar,Rockaway",2
-1,teleost,V13AP-1x,1395341,Acc&Press,365,NA,Striped Bass,0.464,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395343,Acc&Press,365,MF,Striped Bass,0.637,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395344,Acc&Press,365,BP,Striped Bass,0.725,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395341,Acc&Press,365,NA,Striped Bass,0.464,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395343,Acc&Press,365,MF,Striped Bass,0.637,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395344,Acc&Press,365,BP,Striped Bass,0.725,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395345,Acc&Press,365,LI,Striped Bass,0.69,NA,U,Shinnecock Canal,Southfork,19,2,358,2,1,0.005586592,0.005586592,Transient,2,11,"Kismet,Yellowbar,McAllister",3
-1,teleost,V13AP-1x,1395346,Acc&Press,365,BS,Striped Bass,0.67,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395348,Acc&Press,365,LI,Striped Bass,0.76,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395349,Acc&Press,365,NA,Striped Bass,0.673,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395350,Acc&Press,365,MF,Striped Bass,0.466,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395351,Acc&Press,365,MF,Striped Bass,0.534,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395352,Acc&Press,365,MF,Striped Bass,0.596,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395353,Acc&Press,365,MF,Striped Bass,0.565,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395346,Acc&Press,365,BS,Striped Bass,0.67,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395348,Acc&Press,365,LI,Striped Bass,0.76,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395349,Acc&Press,365,NA,Striped Bass,0.673,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395350,Acc&Press,365,MF,Striped Bass,0.466,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395351,Acc&Press,365,MF,Striped Bass,0.534,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395352,Acc&Press,365,MF,Striped Bass,0.596,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395353,Acc&Press,365,MF,Striped Bass,0.565,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395354,Acc&Press,365,MF,Striped Bass,0.464,NA,U,NA,Southfork,2,1,696,1,1,0.001436782,0.001436782,Transient,1,11,Kismet,1
-1,teleost,V13AP-1x,1395355,Acc&Press,365,MF,Striped Bass,0.599,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395356,Acc&Press,365,MF,Striped Bass,0.533,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395355,Acc&Press,365,MF,Striped Bass,0.599,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395356,Acc&Press,365,MF,Striped Bass,0.533,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1395357,Acc&Press,365,MF,Striped Bass,0.539,NA,U,NA,Southfork,38,1,696,1,1,0.001436782,0.001436782,Transient,1,11,Moriches,1
 2,teleost,V13AP-1x,1395359,Acc&Press,365,MF,Striped Bass,0.505,NA,U,NA,Southfork,25,1,696,1,1,0.001436782,0.001436782,Transient,1,11,Fire Island,1
-1,teleost,V13AP-1x,1395360,Acc&Press,365,MF,Striped Bass,0.506,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395361,Acc&Press,365,MF,Striped Bass,0.452,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395362,Acc&Press,365,MF,Striped Bass,0.554,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395363,Acc&Press,365,MF,Striped Bass,0.5,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395360,Acc&Press,365,MF,Striped Bass,0.506,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395361,Acc&Press,365,MF,Striped Bass,0.452,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395362,Acc&Press,365,MF,Striped Bass,0.554,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395363,Acc&Press,365,MF,Striped Bass,0.5,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V13-1X,1395368,None,1825,MF,Clearnose Skate,0.616,NA,NA,NA,Southfork,15,1,775,1,1,0.001290323,0.001290323,Transient,1,9,Shinnecock,1
 2,elasmobranch,V13-1X,1395369,None,1825,KD,Clearnose Skate,0.535,NA,M,NA,Southfork,1613,11,774,7,0.636363636,0.009043928,0.014211886,Transient,2,10,Fire Island,1
-1,elasmobranch,V13-1X,1395370,None,1825,AS,Little Skate,0.425,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395370,None,1825,AS,Little Skate,0.425,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V13-1X,1395371,None,1825,AS,Clearnose Skate,0.635,NA,M,NA,Southfork,143,2,774,2,1,0.002583979,0.002583979,Transient,2,9,Shinnecock,1
-1,elasmobranch,V13-1X,1395372,None,1825,AS,Little Skate,0.438,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1395373,None,1825,KD,Little Skate,0.45,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395372,None,1825,AS,Little Skate,0.438,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395373,None,1825,KD,Little Skate,0.45,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V13-1X,1395375,None,1825,KD,Clearnose Skate,0.49,NA,M,NA,Southfork,158,8,774,2,0.25,0.002583979,0.010335917,Transient,1,10,"Shinnecock,Moriches",2
 2,elasmobranch,V13-1X,1395376,None,1825,KD,Clearnose Skate,0.23,NA,M,NA,Southfork,23,1,774,1,1,0.00129199,0.00129199,Transient,1,10,Fire Island,1
-1,elasmobranch,V13-1X,1395377,None,1825,MF,Little Skate,0.46,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1395378,None,1825,AS,Little Skate,0.465,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395377,None,1825,MF,Little Skate,0.46,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395378,None,1825,AS,Little Skate,0.465,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V13-1X,1395379,None,1825,KD,Little Skate,0.454,NA,F,NA,Southfork,272,237,730,5,0.021097046,0.006849315,0.324657534,Transient,2,4,"Shinnecock,Fire Island",2
-1,elasmobranch,V13-1X,1395380,None,1825,KD,Clearnose Skate,0.55,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1395381,None,1825,MF,Little Skate,0.448,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395380,None,1825,KD,Clearnose Skate,0.55,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395381,None,1825,MF,Little Skate,0.448,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V13-1X,1395382,None,1825,KD,Clearnose Skate,0.635,NA,M,NA,Southfork,118,1,775,1,1,0.001290323,0.001290323,Transient,1,10,Moriches,1
-1,elasmobranch,V13-1X,1395383,None,1825,MF,Little Skate,0.474,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395383,None,1825,MF,Little Skate,0.474,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V13-1X,1395384,None,1825,JZ,Clearnose Skate,0.609,NA,M,NA,Southfork,489,135,774,3,0.022222222,0.003875969,0.174418605,Transient,2,6,"Moriches,Fire Island",2
-1,elasmobranch,V13-1X,1395385,None,1825,AS,Little Skate,0.455,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1395386,None,1825,KD,Clearnose Skate,0.54,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1395387,None,1825,KD,Little Skate,0.44,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1395388,None,1825,MF,Little Skate,0.46,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1395389,None,1825,KD,Clearnose Skate,0.63,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395385,None,1825,AS,Little Skate,0.455,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395386,None,1825,KD,Clearnose Skate,0.54,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395387,None,1825,KD,Little Skate,0.44,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395388,None,1825,MF,Little Skate,0.46,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395389,None,1825,KD,Clearnose Skate,0.63,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V13-1X,1395390,None,1825,AS,Clearnose Skate,0.35,NA,M,NA,Southfork,129,10,774,4,0.4,0.005167959,0.012919897,Transient,2,10,"Shinnecock,Moriches,Fire Island",3
-1,elasmobranch,V13-1X,1395391,None,1825,AS,Clearnose Skate,0.698,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395391,None,1825,AS,Clearnose Skate,0.698,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V13-1X,1395392,None,1825,MF,Clearnose Skate,0.495,NA,F,NA,Southfork,51,2,775,2,1,0.002580645,0.002580645,Transient,2,12,Fire Island,1
-1,elasmobranch,V13-1X,1395393,None,1825,MF,Little Skate,0.46,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1395394,None,1825,KD,Clearnose Skate,0.635,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395393,None,1825,MF,Little Skate,0.46,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395394,None,1825,KD,Clearnose Skate,0.635,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V13-1X,1395395,None,1825,NA,Clearnose Skate,0.614,NA,M,NA,Southfork,60,372,775,3,0.008064516,0.003870968,0.48,Transient,1,6,"Moriches,Fire Island",2
 2,elasmobranch,V13-1X,1395396,None,1825,MF,Clearnose Skate,0.705,NA,M,NA,Southfork,281,612,774,4,0.006535948,0.005167959,0.790697674,Intermittent Resident,1,5,"Moriches,Fire Island",2
 2,elasmobranch,V13-1X,1395397,None,1825,MF,Clearnose Skate,0.637,NA,M,NA,Southfork,2,1,774,1,1,0.00129199,0.00129199,Transient,1,6,Moriches,1
 2,elasmobranch,V13-1X,1395398,None,1825,MF,Clearnose Skate,0.516,NA,F,NA,Southfork,1120,279,775,2,0.007168459,0.002580645,0.36,Transient,1,7,"Fire Island,Shinnecock",2
-1,elasmobranch,V13-1X,1395400,None,1825,MF,Little Skate,0.439,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1395401,None,1825,MF,Clearnose Skate,0.569,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1395402,None,1825,BP,Little Skate,0.46,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1395403,None,1825,MF,Clearnose Skate,0.61,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395400,None,1825,MF,Little Skate,0.439,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395401,None,1825,MF,Clearnose Skate,0.569,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395402,None,1825,BP,Little Skate,0.46,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395403,None,1825,MF,Clearnose Skate,0.61,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V13-1X,1395404,None,1825,KD,Clearnose Skate,0.64,NA,M,NA,Southfork,60,710,774,2,0.002816901,0.002583979,0.917312661,Intermittent Resident,1,10,"Moriches,Shinnecock",2
 2,elasmobranch,V13-1X,1395405,None,1825,KD,Clearnose Skate,0.57,NA,M,NA,Southfork,170,1,775,1,1,0.001290323,0.001290323,Transient,1,7,Shinnecock,1
-1,elasmobranch,V13-1X,1395406,None,1825,MF,Little Skate,0.427,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1395407,None,1825,KD,Clearnose Skate,0.68,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1395408,None,1825,MF,Clearnose Skate,0.52,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1395409,None,1825,AS,Little Skate,0.457,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395406,None,1825,MF,Little Skate,0.427,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395407,None,1825,KD,Clearnose Skate,0.68,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395408,None,1825,MF,Clearnose Skate,0.52,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395409,None,1825,AS,Little Skate,0.457,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V13-1X,1395410,None,1825,AS,Little Skate,0.467,NA,F,NA,Southfork,3338,336,730,3,0.008928571,0.004109589,0.460273973,Transient,2,10,"Shinnecock,Moriches",2
-1,elasmobranch,V13-1X,1395411,None,1825,AS,Little Skate,0.44,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1395412,None,1825,AS,Little Skate,0.444,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1395413,None,895,KD,Black Sea Bass,0.34,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1395414,None,895,AN,Summer Flounder,0.428,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1395416,None,895,NA,Bluefish,0.71,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395411,None,1825,AS,Little Skate,0.44,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1395412,None,1825,AS,Little Skate,0.444,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395413,None,895,KD,Black Sea Bass,0.34,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395414,None,895,AN,Summer Flounder,0.428,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395416,None,895,NA,Bluefish,0.71,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1395417,None,895,NA,Bluefish,0.74,NA,U,Moriches Bay,Southfork,8,11,473,2,0.181818182,0.00422833,0.023255814,Transient,1,5,"Yellowbar,Kismet",2
-1,teleost,V13AP-1x,1395418,Acc&Press,365,KD,Striped Bass,0.77,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395418,Acc&Press,365,KD,Striped Bass,0.77,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1395419,None,895,NA,Bluefish,0.73,NA,U,Moriches Bay,Southfork,8,1,473,1,1,0.002114165,0.002114165,Transient,1,5,Moriches,1
-1,teleost,V9-2X,1395420,None,895,AS,Summer Flounder,0.339,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395420,None,895,AS,Summer Flounder,0.339,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1395421,None,895,AN,Summer Flounder,0.425,NA,U,Moriches Bay,Southfork,3359,13,438,7,0.538461538,0.015981735,0.029680365,Transient,4,9,Moriches,1
-1,teleost,V9-2X,1395422,None,895,FL,Black Sea Bass,0.381,NA,U,Montauk,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1395423,None,895,SH,Summer Flounder,0.337,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1395424,None,895,SH,Summer Flounder,0.41,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395422,None,895,FL,Black Sea Bass,0.381,NA,U,Montauk,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395423,None,895,SH,Summer Flounder,0.337,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395424,None,895,SH,Summer Flounder,0.41,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1395425,None,895,FL,Summer Flounder,0.36,NA,U,Moriches Bay,Southfork,91,266,460,3,0.011278195,0.006521739,0.57826087,Intermittent Resident,2,6,"Moriches,Fire Island",2
-1,teleost,V9-2X,1395426,None,895,AN,Summer Flounder,0.39,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1395427,None,895,SH,Summer Flounder,0.312,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395426,None,895,AN,Summer Flounder,0.39,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395427,None,895,SH,Summer Flounder,0.312,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1395428,None,895,SH,Summer Flounder,0.482,NA,U,Moriches Bay,Southfork,18,1,460,1,1,0.002173913,0.002173913,Transient,1,10,Moriches,1
 2,teleost,V9-2X,1395429,None,895,SH,Summer Flounder,0.37,NA,U,Moriches Bay,Southfork,12,1,460,1,1,0.002173913,0.002173913,Transient,1,10,Moriches,1
-1,teleost,V9-2X,1395430,None,895,JC,Summer Flounder,0.34,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1395431,None,895,AN,Summer Flounder,0.43,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395430,None,895,JC,Summer Flounder,0.34,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395431,None,895,AN,Summer Flounder,0.43,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1395432,None,895,AN,Summer Flounder,0.34,NA,U,Moriches Bay,Southfork,129,350,438,6,0.017142857,0.01369863,0.799086758,Intermittent Resident,3,9,"USS San Diego,Shinnecock",2
 2,teleost,V9-2X,1395433,None,895,BS,Black Sea Bass,0.275,NA,U,NA,Southfork,12897,13,731,13,1,0.017783858,0.017783858,Transient,13,11,"Shinnecock,Fire Island",2
 2,teleost,V9-2X,1395434,None,895,AN,Summer Flounder,0.44,NA,U,Moriches Bay,Southfork,686,65,460,44,0.676923077,0.095652174,0.141304348,Transient,16,5,Yellowbar,1
 2,teleost,V9-2X,1395435,None,895,AN,Summer Flounder,0.345,NA,U,Moriches Bay,Southfork,17,1,460,1,1,0.002173913,0.002173913,Transient,1,9,Shinnecock,1
 2,teleost,V9-2X,1395436,None,895,FL,Summer Flounder,0.381,NA,U,Moriches Bay,Southfork,4,1,460,1,1,0.002173913,0.002173913,Transient,1,10,Twelve Mile,1
-1,teleost,V9-2X,1395437,None,895,SH,Summer Flounder,0.351,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395437,None,895,SH,Summer Flounder,0.351,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1395438,None,895,BS,Black Sea Bass,0.31,NA,U,Moriches Reef,Southfork,24590,22,410,22,1,0.053658537,0.053658537,Transient,22,9,Moriches,1
-1,teleost,V9-2X,1395440,None,895,FL,Summer Flounder,0.42,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395440,None,895,FL,Summer Flounder,0.42,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1395441,None,895,NA,Weakfish,0.413,NA,U,Great South Bay,Southfork,156,60,488,5,0.083333333,0.010245902,0.12295082,Transient,2,8,"Kismet,Yellowbar",2
-1,teleost,V9-2X,1395443,None,895,JR,Summer Flounder,0.358,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1395444,None,895,SH,Summer Flounder,0.36,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395445,Acc&Press,365,MF,Weakfish,0.291,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395446,Acc&Press,365,MF,Weakfish,0.295,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1395447,None,895,KD,Black Sea Bass,0.215,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1395448,None,895,MF,Summer Flounder,0.484,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1395449,None,895,NA,Summer Flounder,0.357,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395443,None,895,JR,Summer Flounder,0.358,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395444,None,895,SH,Summer Flounder,0.36,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395445,Acc&Press,365,MF,Weakfish,0.291,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395446,Acc&Press,365,MF,Weakfish,0.295,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395447,None,895,KD,Black Sea Bass,0.215,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395448,None,895,MF,Summer Flounder,0.484,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395449,None,895,NA,Summer Flounder,0.357,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1395450,None,895,FL,Summer Flounder,0.378,NA,U,Moriches Bay,Southfork,110,345,438,3,0.008695652,0.006849315,0.787671233,Intermittent Resident,2,10,"Twelve Mile,Moriches",2
-1,teleost,V13AP-1x,1395451,Acc&Press,365,MF,Weakfish,0.511,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395452,Acc&Press,365,MF,Weakfish,0.282,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1395453,None,895,MF,Black Sea Bass,0.198,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1395454,None,895,KD,Black Sea Bass,0.186,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1395455,None,895,JR,Summer Flounder,0.37,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395451,Acc&Press,365,MF,Weakfish,0.511,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395452,Acc&Press,365,MF,Weakfish,0.282,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395453,None,895,MF,Black Sea Bass,0.198,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395454,None,895,KD,Black Sea Bass,0.186,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395455,None,895,JR,Summer Flounder,0.37,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1395456,None,895,SH,Summer Flounder,0.45,NA,U,Moriches Bay,Southfork,20,1,438,1,1,0.002283105,0.002283105,Transient,1,12,Twelve Mile,1
-1,teleost,V13AP-1x,1395457,Acc&Press,365,KD,Weakfish,0.29,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1395458,None,895,KD,Black Sea Bass,0.225,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1395459,None,895,KD,Black Sea Bass,0.26,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395460,Acc&Press,365,MF,Summer Flounder,0.342,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395461,Acc&Press,365,KD,Summer Flounder,0.355,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395462,Acc&Press,365,MF,Summer Flounder,0.372,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395464,Acc&Press,365,MF,Summer Flounder,0.345,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395466,Acc&Press,365,MF,Summer Flounder,0.339,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395467,Acc&Press,365,MF,Summer Flounder,0.346,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1395495,Acc&Press,365,AS,Summer Flounder,0.354,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395457,Acc&Press,365,KD,Weakfish,0.29,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395458,None,895,KD,Black Sea Bass,0.225,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1395459,None,895,KD,Black Sea Bass,0.26,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395460,Acc&Press,365,MF,Summer Flounder,0.342,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395461,Acc&Press,365,KD,Summer Flounder,0.355,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395462,Acc&Press,365,MF,Summer Flounder,0.372,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395464,Acc&Press,365,MF,Summer Flounder,0.345,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395466,Acc&Press,365,MF,Summer Flounder,0.339,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395467,Acc&Press,365,MF,Summer Flounder,0.346,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1395495,Acc&Press,365,AS,Summer Flounder,0.354,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515909,Press&Temp,1825,LI,Sand Tiger,1.95,Mature,F,Jones Beach,Sunrise,572,383,441,11,0.028720627,0.024943311,0.868480726,Intermittent Resident,3,9,"Moriches,McAllister,Atlantic Beach,Fire Island",4
 2,elasmobranch,V16TP-1x,1515910,Press&Temp,1825,BC,Sand Tiger,1.51,Immature,F,Tobay Beach,Sunrise,75,73,438,3,0.04109589,0.006849315,0.166666667,Transient,2,7,"Fire Island,Hempstead",2
 2,elasmobranch,V16TP-1x,1515911,Press&Temp,1825,BS,Sand Tiger,1.22,Immature,M,Tobay Beach,Sunrise,220,365,456,5,0.01369863,0.010964912,0.800438596,Intermittent Resident,2,10,"Atlantic Beach,McAllister,Hempstead",3
-1,elasmobranch,V16TP-1x,1515912,Press&Temp,3650,GM,Sandbar,1.59,Mature,M,Jones Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515912,Press&Temp,3650,GM,Sandbar,1.59,Mature,M,Jones Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515913,Press&Temp,1825,BS,Sand Tiger,1.78,Mature,M,Tobay Beach,Sunrise,2099,432,456,11,0.025462963,0.024122807,0.947368421,Intermittent Resident,7,9,"Moriches,Atlantic Beach,McAllister",3
 2,elasmobranch,V16TP-1x,1515914,Press&Temp,1825,BS,Sand Tiger,1.82,Mature,M,Tobay Beach,Sunrise,1787,375,456,15,0.04,0.032894737,0.822368421,Intermittent Resident,4,9,"Moriches,Fire Island",2
 2,elasmobranch,V16TP-1x,1515915,Press&Temp,1825,LI,Sand Tiger,1.82,Mature,M,Tobay Beach,Sunrise,10,1,454,1,1,0.002202643,0.002202643,Transient,1,8,Fire Island,1
@@ -244,29 +244,29 @@
 2,elasmobranch,V16TP-1x,1515922,Press&Temp,3650,BS,Smooth Dogfish,0.96,Immature,F,East Hampton,Sunrise,11,2,138,2,1,0.014492754,0.014492754,Transient,2,10,"Moriches,USS San Diego",2
 2,elasmobranch,V16TP-1x,1515923,Press&Temp,1825,LI,Sand Tiger,1.91,Mature,F,Jones Beach,Sunrise,3,1,441,1,1,0.002267574,0.002267574,Transient,1,8,Shinnecock,1
 2,elasmobranch,V16TP-1x,1515924,Press&Temp,3650,BC,Sand Tiger,1.33,Immature,M,Jones Beach,Sunrise,184,5,70,4,0.8,0.057142857,0.071428571,Transient,3,9,"McAllister,Atlantic Beach,Hempstead",3
-1,elasmobranch,V16TP-1x,1515925,Press&Temp,1825,LI,Sand Tiger,1.94,Mature,F,Tobay Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515925,Press&Temp,1825,LI,Sand Tiger,1.94,Mature,F,Tobay Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515926,Press&Temp,1825,LI,Sand Tiger,1.29,Immature,M,Jones Beach,Sunrise,776,356,441,4,0.011235955,0.009070295,0.807256236,Intermittent Resident,3,9,"Rockaway,Hempstead",2
 2,elasmobranch,V16TP-1x,1515927,Press&Temp,1825,BC,Sand Tiger,2,Mature,F,Tobay Beach,Sunrise,245,384,438,10,0.026041667,0.02283105,0.876712329,Intermittent Resident,4,9,"Moriches,Fire Island,Atlantic Beach,Rockaway",4
-1,elasmobranch,V16TP-1x,1515928,Press&Temp,3650,BS,Smooth Dogfish,0.89,Mature,M,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515928,Press&Temp,3650,BS,Smooth Dogfish,0.89,Mature,M,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515929,Press&Temp,1825,LI,Sand Tiger,1.58,Immature,F,Tobay Beach,Sunrise,74,75,438,4,0.053333333,0.00913242,0.171232877,Transient,1,9,"Hempstead,Fire Island,Moriches",3
 2,elasmobranch,V16TP-1x,1515930,Press&Temp,1825,BS,Sand Tiger,1.86,Mature,F,Tobay Beach,Sunrise,71,337,448,2,0.005934718,0.004464286,0.752232143,Intermittent Resident,1,9,"Hempstead,Moriches",2
-1,elasmobranch,V16TP-1x,1515931,Press&Temp,1825,LI,Sand Tiger,1.23,Immature,F,Tobay Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1515932,Press&Temp,1825,BS,Smooth Dogfish,0.95,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1515933,Press&Temp,1825,BS,Smooth Dogfish,1.18,Mature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1515934,Press&Temp,1825,BS,Smooth Dogfish,0.86,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1515935,Press&Temp,1825,BP,Smooth Dogfish,1.04,Mature,M,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1515936,Press&Temp,1825,BP,Smooth Dogfish,1.24,Mature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1515937,Press&Temp,1825,BS,Smooth Dogfish,1,Mature,M,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515931,Press&Temp,1825,LI,Sand Tiger,1.23,Immature,F,Tobay Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515932,Press&Temp,1825,BS,Smooth Dogfish,0.95,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515933,Press&Temp,1825,BS,Smooth Dogfish,1.18,Mature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515934,Press&Temp,1825,BS,Smooth Dogfish,0.86,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515935,Press&Temp,1825,BP,Smooth Dogfish,1.04,Mature,M,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515936,Press&Temp,1825,BP,Smooth Dogfish,1.24,Mature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515937,Press&Temp,1825,BS,Smooth Dogfish,1,Mature,M,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515938,Press&Temp,1825,BP,Smooth Dogfish,0.83,Immature,F,East Hampton,Sunrise,5,1,508,1,1,0.001968504,0.001968504,Transient,1,6,Hempstead,1
-1,elasmobranch,V16TP-1x,1515939,Press&Temp,1825,BP,Smooth Dogfish,1.07,Mature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1515940,Press&Temp,1825,BS,Smooth Dogfish,1.05,Mature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515939,Press&Temp,1825,BP,Smooth Dogfish,1.07,Mature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515940,Press&Temp,1825,BS,Smooth Dogfish,1.05,Mature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515941,Press&Temp,1825,BP,Smooth Dogfish,0.96,Mature,M,East Hampton,Sunrise,35,223,508,2,0.00896861,0.003937008,0.438976378,Transient,1,5,"Twelve Mile,Fire Island",2
-1,elasmobranch,V16TP-1x,1515942,Press&Temp,1825,BP,Smooth Dogfish,0.59,Immature,M,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515942,Press&Temp,1825,BP,Smooth Dogfish,0.59,Immature,M,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515943,Press&Temp,1825,BP,Smooth Dogfish,0.89,Mature,M,East Hampton,Sunrise,15,1,508,1,1,0.001968504,0.001968504,Transient,1,10,Moriches,1
 2,elasmobranch,V16TP-1x,1515944,Press&Temp,1825,BS,Smooth Dogfish,1.03,Mature,M,East Hampton,Sunrise,22,1,508,1,1,0.001968504,0.001968504,Transient,1,5,Shinnecock,1
-1,elasmobranch,V16TP-1x,1515945,Press&Temp,1825,GM,Dusky,1.03,Immature,M,Fire Island,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1515946,Press&Temp,1825,BS,Dusky,0.8,Immature,M,Fire Island,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1515947,Press&Temp,3650,BS,Smooth Dogfish,0.88,Mature,M,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515945,Press&Temp,1825,GM,Dusky,1.03,Immature,M,Fire Island,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515946,Press&Temp,1825,BS,Dusky,0.8,Immature,M,Fire Island,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515947,Press&Temp,3650,BS,Smooth Dogfish,0.88,Mature,M,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515948,Press&Temp,1825,BS,Dusky,0.92,Immature,M,Fire Island,Sunrise,104,36,462,6,0.166666667,0.012987013,0.077922078,Transient,2,7,"McAllister,Hempstead,Fire Island,Moriches,USS San Diego",5
 2,elasmobranch,V16TP-1x,1515949,Press&Temp,1825,LI,Sand Tiger,1.95,Mature,F,Tobay Beach,Sunrise,917,351,454,4,0.011396011,0.008810573,0.773127753,Intermittent Resident,3,8,"Moriches,Fire Island",2
 2,elasmobranch,V16TP-1x,1515950,Press&Temp,1825,BS,Dusky,0.82,Immature,F,Moriches Reef,Sunrise,18,9,463,2,0.222222222,0.004319654,0.019438445,Transient,1,8,"Fire Island,Yellowbar",2
@@ -274,41 +274,41 @@
 2,elasmobranch,V16TP-1x,1515952,Press&Temp,1825,BS,Sandbar,1.22,Immature,M,Fire Island,Sunrise,88,410,463,5,0.012195122,0.010799136,0.885529158,Intermittent Resident,1,8,"Fire Island,Hempstead,Moriches",3
 2,elasmobranch,V16TP-1x,1515953,Press&Temp,1825,BS,Dusky,0.81,Immature,F,Moriches Reef,Sunrise,936,423,463,23,0.054373522,0.049676026,0.913606911,Intermittent Resident,4,7,"Fire Island,Atlantic Beach,McAllister,Hempstead,Rockaway",5
 2,elasmobranch,V16TP-1x,1515954,Press&Temp,1825,BS,Dusky,0.79,Immature,F,Fire Island,Sunrise,26,59,464,3,0.050847458,0.006465517,0.127155172,Transient,1,8,"USS San Diego,Fire Island,Hempstead",3
-1,elasmobranch,V16TP-1x,1515955,Press&Temp,1825,GM,Dusky,0.84,Immature,F,Fire Island,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515955,Press&Temp,1825,GM,Dusky,0.84,Immature,F,Fire Island,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515956,Press&Temp,1825,BS,Dusky,0.81,Immature,F,Moriches Reef,Sunrise,25227,489,463,180,0.36809816,0.388768898,1.056155508,Intermittent Resident,36,8,"USS San Diego,Fire Island",2
-1,elasmobranch,V16TP-1x,1515957,Press&Temp,1825,BS,Smooth Dogfish,0.9,Mature,M,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515957,Press&Temp,1825,BS,Smooth Dogfish,0.9,Mature,M,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515958,Press&Temp,1825,BP,Smooth Dogfish,0.85,Mature,M,East Hampton,Sunrise,3,1,508,1,1,0.001968504,0.001968504,Transient,1,6,Shinnecock,1
 2,elasmobranch,V16TP-1x,1515959,Press&Temp,1825,BS,Smooth Dogfish,0.85,Mature,M,East Hampton,Sunrise,7,1,508,1,1,0.001968504,0.001968504,Transient,1,5,Moriches,1
-1,elasmobranch,V16TP-1x,1515960,Press&Temp,1825,BS,Smooth Dogfish,0.99,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1515961,Press&Temp,1825,BP,Smooth Dogfish,0.91,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1515962,Press&Temp,1825,BP,Smooth Dogfish,1.19,Mature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515960,Press&Temp,1825,BS,Smooth Dogfish,0.99,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515961,Press&Temp,1825,BP,Smooth Dogfish,0.91,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515962,Press&Temp,1825,BP,Smooth Dogfish,1.19,Mature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515963,Press&Temp,1825,BS,Smooth Dogfish,0.88,Immature,F,East Hampton,Sunrise,59,104,508,2,0.019230769,0.003937008,0.204724409,Transient,1,5,"Shinnecock,Moriches",2
 2,elasmobranch,V16TP-1x,1515964,Press&Temp,1825,BP,Smooth Dogfish,1.08,Mature,M,East Hampton,Sunrise,75,3,508,3,1,0.005905512,0.005905512,Transient,3,5,"Yellowbar,Fire Island",2
 2,elasmobranch,V16TP-1x,1515965,Press&Temp,1825,BP,Smooth Dogfish,1.06,Mature,F,East Hampton,Sunrise,3,1,508,1,1,0.001968504,0.001968504,Transient,1,9,USS San Diego,1
 2,elasmobranch,V16TP-1x,1515966,Press&Temp,1825,BP,Smooth Dogfish,1.02,Mature,M,East Hampton,Sunrise,1480,3,508,3,1,0.005905512,0.005905512,Transient,3,9,Shinnecock,1
-1,elasmobranch,V16TP-1x,1515967,Press&Temp,1825,BS,Smooth Dogfish,1.02,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1515968,Press&Temp,1825,BS,Smooth Dogfish,0.93,Mature,M,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515967,Press&Temp,1825,BS,Smooth Dogfish,1.02,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515968,Press&Temp,1825,BS,Smooth Dogfish,0.93,Mature,M,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515969,Press&Temp,1825,HN,Dusky,1.22,Immature,M,Jones Beach,Sunrise,61,433,481,3,0.006928406,0.006237006,0.9002079,Intermittent Resident,1,7,"Fire Island,Moriches",2
 2,elasmobranch,V16TP-1x,1515970,Press&Temp,1825,BP,Dusky,0.97,Immature,M,Jones Beach,Sunrise,751,401,476,17,0.042394015,0.035714286,0.842436975,Intermittent Resident,3,9,"Moriches,Shinnecock,Fire Island,Twelve Mile,Hempstead",5
 2,elasmobranch,V16TP-1x,1515971,Press&Temp,1825,BS,Dusky,0.89,Immature,F,Fire Island,Sunrise,760,54,462,14,0.259259259,0.03030303,0.116883117,Transient,4,8,"McAllister,Rockaway,Hempstead,Atlantic Beach",4
-1,elasmobranch,V16TP-1x,1515972,Press&Temp,1825,GM,Sandbar,1.32,Immature,F,Jones Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1515973,Press&Temp,3650,BS,Smooth Dogfish,0.92,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515972,Press&Temp,1825,GM,Sandbar,1.32,Immature,F,Jones Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515973,Press&Temp,3650,BS,Smooth Dogfish,0.92,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515974,Press&Temp,1825,BP,Dusky,0.9,Immature,F,Jones Beach,Sunrise,664,385,476,27,0.07012987,0.056722689,0.808823529,Intermittent Resident,4,8,"Shinnecock,Moriches,Fire Island,Atlantic Beach,Hempstead,McAllister,Rockaway",7
-1,elasmobranch,V16TP-1x,1515975,Press&Temp,3650,BS,Smooth Dogfish,0.99,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515975,Press&Temp,3650,BS,Smooth Dogfish,0.99,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515976,Press&Temp,1825,BS,Dusky,0.97,Immature,F,Fire Island,Sunrise,36,372,462,5,0.01344086,0.010822511,0.805194805,Intermittent Resident,2,8,"Fire Island,Moriches,Shinnecock",3
-1,elasmobranch,V16TP-1x,1515977,Press&Temp,3650,BS,Smooth Dogfish,0.9,Mature,M,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515977,Press&Temp,3650,BS,Smooth Dogfish,0.9,Mature,M,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515978,Press&Temp,1825,BP,Dusky,0.83,Immature,F,Jones Beach,Sunrise,450,424,476,24,0.056603774,0.050420168,0.890756303,Intermittent Resident,5,9,"Fire Island,Moriches,Shinnecock,McAllister,Atlantic Beach,Rockaway",6
 2,elasmobranch,V16TP-1x,1515979,Press&Temp,3650,BS,Smooth Dogfish,1,Immature,F,East Hampton,Sunrise,86,1,138,1,1,0.007246377,0.007246377,Transient,1,6,Fire Island,1
 2,elasmobranch,V16TP-1x,1515980,Press&Temp,1825,BP,Dusky,0.91,Immature,M,Jones Beach,Sunrise,474,71,476,15,0.211267606,0.031512605,0.149159664,Transient,2,7,"Hempstead,Fire Island,Moriches,Shinnecock,Rockaway",5
 2,elasmobranch,V16TP-1x,1515981,Press&Temp,1825,LI,Sand Tiger,1.85,Mature,M,Jones Beach,Sunrise,1578,395,441,5,0.012658228,0.011337868,0.89569161,Intermittent Resident,2,8,"Moriches,Fire Island",2
 2,elasmobranch,V16TP-1x,1515982,Press&Temp,3650,LI,Dusky,1.11,Immature,F,Jones Beach,Sunrise,605,50,100,21,0.42,0.21,0.5,Transient,8,8,"Rockaway,McAllister,Hempstead,Atlantic Beach",4
 2,elasmobranch,V16TP-1x,1515983,Press&Temp,1825,BC,Sand Tiger,1.3,Immature,M,Tobay Beach,Sunrise,187,364,438,7,0.019230769,0.015981735,0.831050228,Intermittent Resident,2,9,"Hempstead,Rockaway,Fire Island,Moriches,Atlantic Beach,McAllister",6
-1,elasmobranch,V16TP-1x,1515984,Press&Temp,1825,LI,Sand Tiger,1.71,Immature,F,Tobay Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515984,Press&Temp,1825,LI,Sand Tiger,1.71,Immature,F,Tobay Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515985,Press&Temp,1825,LI,Sand Tiger,1.71,Immature,F,Tobay Beach,Sunrise,52,8,442,3,0.375,0.00678733,0.018099548,Transient,1,9,"Moriches,Fire Island",2
 2,elasmobranch,V16TP-1x,1515986,Press&Temp,1825,LI,Sandbar,1.26,Immature,M,Tobay Beach,Sunrise,283,430,454,13,0.030232558,0.028634361,0.947136564,Intermittent Resident,2,7,"Fire Island,USS San Diego",2
 2,elasmobranch,V16TP-1x,1515987,Press&Temp,3650,BS,Smooth Dogfish,0.96,Mature,M,East Hampton,Sunrise,3,1,138,1,1,0.007246377,0.007246377,Transient,1,5,Twelve Mile,1
 2,elasmobranch,V16TP-1x,1515988,Press&Temp,1825,LI,Sand Tiger,1.98,Mature,F,Tobay Beach,Sunrise,49,402,454,3,0.007462687,0.00660793,0.885462555,Intermittent Resident,1,7,"Moriches,Shinnecock,Rockaway",3
-1,elasmobranch,V16TP-1x,1515989,Press&Temp,3650,BS,Smooth Dogfish,0.99,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515989,Press&Temp,3650,BS,Smooth Dogfish,0.99,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515990,Press&Temp,1825,LI,Sand Tiger,1.89,Mature,F,Tobay Beach,Sunrise,453,416,454,11,0.026442308,0.024229075,0.916299559,Intermittent Resident,2,6,"Fire Island,Shinnecock,McAllister,Atlantic Beach,USS San Diego",5
 2,elasmobranch,V16TP-1x,1515991,Press&Temp,3650,BS,Smooth Dogfish,1.14,Mature,F,East Hampton,Sunrise,28,1,138,1,1,0.007246377,0.007246377,Transient,1,10,Shinnecock,1
 2,elasmobranch,V16TP-1x,1515992,Press&Temp,1825,BS,Sandbar,1.14,Immature,M,Fire Island,Sunrise,76,393,460,8,0.020356234,0.017391304,0.854347826,Intermittent Resident,2,8,"Fire Island,Moriches,Hempstead",3
@@ -316,147 +316,147 @@
 2,elasmobranch,V16TP-1x,1515994,Press&Temp,3650,BS,Sandbar,1.25,Immature,M,Jones Beach,Sunrise,49,61,100,6,0.098360656,0.06,0.61,Intermittent Resident,2,7,"Atlantic Beach,Hempstead,Moriches,Fire Island",4
 2,elasmobranch,V16TP-1x,1515995,Press&Temp,1825,BS,Sandbar,1.35,Immature,F,Fire Island,Sunrise,9,330,462,3,0.009090909,0.006493506,0.714285714,Intermittent Resident,1,6,"Fire Island,Hempstead",2
 2,elasmobranch,V16TP-1x,1515996,Press&Temp,1825,GM,Dusky,0.89,Immature,M,Fire Island,Sunrise,2,1,461,1,1,0.002169197,0.002169197,Transient,1,7,Moriches,1
-1,elasmobranch,V16TP-1x,1515997,Press&Temp,1825,BS,Dusky,0.95,Immature,F,Fire Island,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1515997,Press&Temp,1825,BS,Dusky,0.95,Immature,F,Fire Island,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1515998,Press&Temp,1825,GM,Dusky,0.76,Immature,F,Fire Island,Sunrise,320,43,461,9,0.209302326,0.019522777,0.093275488,Transient,3,8,"Shinnecock,Moriches,Fire Island",3
 2,elasmobranch,V16TP-1x,1515999,Press&Temp,1825,BS,Dusky,0.99,Immature,M,Fire Island,Sunrise,266,92,462,12,0.130434783,0.025974026,0.199134199,Transient,2,7,"Fire Island,Hempstead,Atlantic Beach,McAllister,Moriches,Shinnecock",6
 2,elasmobranch,V16TP-1x,1516000,Press&Temp,1825,BS,Dusky,0.99,Immature,F,Fire Island,Sunrise,232,414,461,10,0.024154589,0.021691974,0.898047722,Intermittent Resident,2,7,"Fire Island,Shinnecock,Moriches",3
 2,elasmobranch,V16TP-1x,1516001,Press&Temp,1825,GM,Dusky,0.83,Immature,F,Fire Island,Sunrise,236,405,461,13,0.032098765,0.028199566,0.878524946,Intermittent Resident,2,8,"USS San Diego,Moriches,Shinnecock,Fire Island,Hempstead,McAllister,Atlantic Beach",7
-1,elasmobranch,V16TP-1x,1516002,Press&Temp,1825,GM,Dusky,0.82,Immature,F,Fire Island,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1516003,Press&Temp,3650,BS,Smooth Dogfish,1.07,Mature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1516002,Press&Temp,1825,GM,Dusky,0.82,Immature,F,Fire Island,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1516003,Press&Temp,3650,BS,Smooth Dogfish,1.07,Mature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1516004,Press&Temp,1825,GM,Dusky,0.81,Immature,M,Fire Island,Sunrise,156,37,461,6,0.162162162,0.013015184,0.080260304,Transient,2,7,"Fire Island,USS San Diego,Moriches",3
 2,elasmobranch,V16TP-1x,1516005,Press&Temp,3650,BC,Smooth Dogfish,0.9,Mature,M,Tobay Beach,Sunrise,9,1,149,1,1,0.006711409,0.006711409,Transient,1,5,Fire Island,1
 2,elasmobranch,V16TP-1x,1516006,Press&Temp,3650,BS,Smooth Dogfish,0.92,Mature,M,East Hampton,Sunrise,8,1,138,1,1,0.007246377,0.007246377,Transient,1,6,Shinnecock,1
 2,elasmobranch,V16TP-1x,1516007,Press&Temp,1825,GM,Sandbar,1.07,Immature,F,Tobay Beach,Sunrise,337,42,438,13,0.30952381,0.029680365,0.095890411,Transient,3,8,"Fire Island,USS San Diego,Moriches",3
 2,elasmobranch,V16TP-1x,1516008,Press&Temp,3650,BC,Dusky,0.97,Immature,F,Jones Beach,Sunrise,439,64,97,16,0.25,0.164948454,0.659793814,Intermittent Resident,2,9,"Hempstead,McAllister,Rockaway,Atlantic Beach",4
 2,elasmobranch,V13-1x,1516033,None,1825,BS,Winter Skate,0.84,Mature,M,East Hampton,Sunrise,24,1,508,1,1,0.001968504,0.001968504,Transient,1,11,Shinnecock,1
-1,teleost,V13AP-1x,1521147,Acc&Press,365,NA,Striped Bass,0.555,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521147,Acc&Press,365,NA,Striped Bass,0.555,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521148,Acc&Press,365,AN,Striped Bass,0.476,NA,U,Shinnecock Bay,Southfork,50,6,465,2,0.333333333,0.004301075,0.012903226,Transient,1,11,Kismet,1
 2,teleost,V13AP-1x,1521149,Acc&Press,365,NA,Striped Bass,0.686,NA,U,Shinnecock Bay,Southfork,3,1,354,1,1,0.002824859,0.002824859,Transient,1,12,Rockaway,1
-1,teleost,V13AP-1x,1521151,Acc&Press,365,LI,Striped Bass,0.68,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521157,Acc&Press,365,NA,Striped Bass,0.558,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521151,Acc&Press,365,LI,Striped Bass,0.68,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521157,Acc&Press,365,NA,Striped Bass,0.558,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521158,Acc&Press,365,NA,Striped Bass,0.6,NA,U,Shinnecock Bay,Southfork,2,1,465,1,1,0.002150538,0.002150538,Transient,1,11,Kismet,1
 2,teleost,V13AP-1x,1521159,Acc&Press,365,AN,Striped Bass,0.525,NA,U,Shinnecock Bay,Southfork,21,162,465,4,0.024691358,0.008602151,0.348387097,Transient,1,12,"Kismet,Yellowbar,Rockaway",3
-1,teleost,V13AP-1x,1521160,Acc&Press,365,AN,Striped Bass,0.702,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521160,Acc&Press,365,AN,Striped Bass,0.702,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521161,Acc&Press,365,FL,Striped Bass,0.84,NA,U,Great South Bay,Southfork,2076,235,343,18,0.076595745,0.052478134,0.685131195,Intermittent Resident,11,11,"Yellowbar,Kismet",2
-1,teleost,V13AP-1x,1521162,Acc&Press,365,NA,Striped Bass,0.6,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521163,Acc&Press,365,MM,Striped Bass,0.585,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521162,Acc&Press,365,NA,Striped Bass,0.6,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521163,Acc&Press,365,MM,Striped Bass,0.585,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1X,1521164,Acc&Press,365,FL,Striped Bass,1.046,NA,U,NA,Southfork,24,1,-15,1,1,-0.066666667,-0.066666667,Transient,1,11,Fire Island,1
-1,teleost,V13AP-1X,1521165,Acc&Press,365,FL,Striped Bass,0.679,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1521167,Acc&Press,365,FL,Striped Bass,1.136,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521168,Acc&Press,365,NA,Striped Bass,0.53,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1521165,Acc&Press,365,FL,Striped Bass,0.679,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1521167,Acc&Press,365,FL,Striped Bass,1.136,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521168,Acc&Press,365,NA,Striped Bass,0.53,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521169,Acc&Press,365,AS,Striped Bass,0.595,NA,U,Rockaway,Southfork,2,1,337,1,1,0.002967359,0.002967359,Transient,1,11,Moriches,1
 2,teleost,V13AP-1x,1521170,Acc&Press,365,AS,Striped Bass,0.696,NA,U,Rockaway,Southfork,25,1,337,1,1,0.002967359,0.002967359,Transient,1,11,Moriches,1
-1,teleost,V13AP-1x,1521171,Acc&Press,365,NA,Striped Bass,0.68,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521172,Acc&Press,365,AN,Striped Bass,0.787,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521171,Acc&Press,365,NA,Striped Bass,0.68,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521172,Acc&Press,365,AN,Striped Bass,0.787,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521173,Acc&Press,365,KD,Striped Bass,0.6,NA,U,Shinnecock Bay,Southfork,14,2,465,2,1,0.004301075,0.004301075,Transient,2,11,"Yellowbar,Kismet",2
 2,teleost,V13AP-1x,1521174,Acc&Press,365,JQ,Striped Bass,0.6,NA,U,Shinnecock Bay,Southfork,7,1,465,1,1,0.002150538,0.002150538,Transient,1,11,Kismet,1
-1,teleost,V13AP-1x,1521175,Acc&Press,365,AN,Striped Bass,0.68,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521176,Acc&Press,365,JQ,Striped Bass,0.53,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521175,Acc&Press,365,AN,Striped Bass,0.68,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521176,Acc&Press,365,JQ,Striped Bass,0.53,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521177,Acc&Press,365,MF,Striped Bass,0.926,NA,U,Great South Bay,Southfork,20,6,343,3,0.5,0.008746356,0.017492711,Transient,1,11,"Yellowbar,Kismet,Atlantic Beach",3
 2,teleost,V13AP-1x,1521178,Acc&Press,365,MF,Striped Bass,1.165,NA,F,Great South Bay,Southfork,180,23,343,8,0.347826087,0.023323615,0.067055394,Transient,3,5,"Fire Island,Moriches,Shinnecock",3
-1,teleost,V13AP-1x,1521180,Acc&Press,365,AN,Striped Bass,0.63,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521182,Acc&Press,365,BS,Striped Bass,0.54,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521183,Acc&Press,365,NA,Striped Bass,0.66,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521180,Acc&Press,365,AN,Striped Bass,0.63,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521182,Acc&Press,365,BS,Striped Bass,0.54,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521183,Acc&Press,365,NA,Striped Bass,0.66,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521184,Acc&Press,365,KD,Striped Bass,0.6,NA,U,Shinnecock Canal,Southfork,10,1,471,1,1,0.002123142,0.002123142,Transient,1,11,Fire Island,1
-1,teleost,V13AP-1x,1521185,Acc&Press,365,BP,Striped Bass,0.57,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521185,Acc&Press,365,BP,Striped Bass,0.57,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521186,Acc&Press,365,NA,Striped Bass,0.495,NA,U,Shinnecock Canal,Southfork,13,2,471,2,1,0.004246285,0.004246285,Transient,2,11,"Kismet,Yellowbar",2
 2,teleost,V13AP-1x,1521187,Acc&Press,365,LI,Striped Bass,0.665,NA,U,Shinnecock Canal,Southfork,42,10,471,2,0.2,0.004246285,0.021231423,Transient,1,12,Rockaway,1
-1,teleost,V13AP-1x,1521188,Acc&Press,365,KD,Striped Bass,0.68,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521189,Acc&Press,365,BS,Striped Bass,0.498,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521190,Acc&Press,365,FL,Striped Bass,0.5,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521191,Acc&Press,365,KD,Striped Bass,0.58,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521188,Acc&Press,365,KD,Striped Bass,0.68,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521189,Acc&Press,365,BS,Striped Bass,0.498,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521190,Acc&Press,365,FL,Striped Bass,0.5,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521191,Acc&Press,365,KD,Striped Bass,0.58,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521192,Acc&Press,365,KD,Striped Bass,0.61,NA,U,Shinnecock Canal,Southfork,12,1,471,1,1,0.002123142,0.002123142,Transient,1,10,"Yellowbar,Kismet",2
-1,teleost,V13AP-1x,1521193,Acc&Press,365,KD,Striped Bass,0.56,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521194,Acc&Press,365,FL,Striped Bass,0.636,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521195,Acc&Press,365,NA,Striped Bass,0.49,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521196,Acc&Press,365,NA,Striped Bass,0.68,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521197,Acc&Press,365,LA,Striped Bass,0.44,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521193,Acc&Press,365,KD,Striped Bass,0.56,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521194,Acc&Press,365,FL,Striped Bass,0.636,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521195,Acc&Press,365,NA,Striped Bass,0.49,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521196,Acc&Press,365,NA,Striped Bass,0.68,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521197,Acc&Press,365,LA,Striped Bass,0.44,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521198,Acc&Press,365,NA,Striped Bass,0.46,NA,U,Shinnecock Canal,Southfork,28,231,471,3,0.012987013,0.006369427,0.49044586,Transient,1,12,"Yellowbar,Rockaway",2
 2,teleost,V13AP-1x,1521199,Acc&Press,365,NA,Striped Bass,0.53,NA,U,Shinnecock Canal,Southfork,2,1,471,1,1,0.002123142,0.002123142,Transient,1,11,Yellowbar,1
-1,teleost,V13AP-1x,1521200,Acc&Press,365,BS,Striped Bass,0.52,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521201,Acc&Press,365,KD,Striped Bass,0.555,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521202,Acc&Press,365,KD,Striped Bass,0.58,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521203,Acc&Press,365,NA,Striped Bass,0.51,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521200,Acc&Press,365,BS,Striped Bass,0.52,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521201,Acc&Press,365,KD,Striped Bass,0.555,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521202,Acc&Press,365,KD,Striped Bass,0.58,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521203,Acc&Press,365,NA,Striped Bass,0.51,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521204,Acc&Press,365,KD,Striped Bass,0.67,NA,U,Shinnecock Canal,Southfork,5,1,471,1,1,0.002123142,0.002123142,Transient,1,10,"Yellowbar,Kismet",2
-1,teleost,V13AP-1x,1521205,Acc&Press,365,FL,Striped Bass,0.616,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521206,Acc&Press,365,KD,Striped Bass,0.535,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521205,Acc&Press,365,FL,Striped Bass,0.616,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521206,Acc&Press,365,KD,Striped Bass,0.535,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521207,Acc&Press,365,KD,Striped Bass,0.66,NA,U,Shinnecock Canal,Southfork,26,355,472,2,0.005633803,0.004237288,0.752118644,Intermittent Resident,1,10,"Yellowbar,Kismet,Atlantic Beach",3
-1,teleost,V13AP-1x,1521208,Acc&Press,365,MF,Striped Bass,0.58,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521209,Acc&Press,365,KD,Striped Bass,0.6,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521210,Acc&Press,365,KD,Striped Bass,0.59,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521211,Acc&Press,365,KD,Striped Bass,0.69,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521208,Acc&Press,365,MF,Striped Bass,0.58,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521209,Acc&Press,365,KD,Striped Bass,0.6,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521210,Acc&Press,365,KD,Striped Bass,0.59,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521211,Acc&Press,365,KD,Striped Bass,0.69,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521212,Acc&Press,365,KD,Striped Bass,0.52,NA,U,Shinnecock Canal,Southfork,4,1,472,1,1,0.002118644,0.002118644,Transient,1,3,Atlantic Beach,1
 2,teleost,V13AP-1x,1521213,Acc&Press,365,KD,Striped Bass,0.69,NA,U,Shinnecock Canal,Southfork,38,12,472,4,0.333333333,0.008474576,0.025423729,Transient,2,11,"Yellowbar,Kismet,McAllister",3
-1,teleost,V13AP-1x,1521214,Acc&Press,365,KD,Striped Bass,0.72,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521214,Acc&Press,365,KD,Striped Bass,0.72,NA,U,Shinnecock Canal,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521215,Acc&Press,365,KD,Striped Bass,0.64,NA,U,Shinnecock Canal,Southfork,36,143,472,5,0.034965035,0.01059322,0.302966102,Transient,1,3,"Kismet,Yellowbar,Rockaway,Atlantic Beach",4
 2,teleost,V13AP-1x,1521216,Acc&Press,365,KD,Striped Bass,0.55,NA,U,Shinnecock Canal,Southfork,2,1,472,1,1,0.002118644,0.002118644,Transient,1,11,Kismet,1
-1,teleost,V13AP-1X,1521217,Acc&Press,365,MF,Striped Bass,1.03,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1521217,Acc&Press,365,MF,Striped Bass,1.03,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521218,Acc&Press,365,MF,Striped Bass,0.95,NA,U,Great South Bay,Southfork,62,27,364,6,0.222222222,0.016483516,0.074175824,Transient,2,11,"Kismet,Yellowbar,Atlantic Beach,McAllister,Hempstead",5
-1,teleost,V13AP-1X,1521219,Acc&Press,365,FL,Striped Bass,0.869,NA,U,Great South Bay,Southfork,132,11,162,3,0.272727273,0.018518519,0.067901235,Transient,1,5,"Yellowbar,Kismet",2
-1,teleost,V13AP-1x,1521220,Acc&Press,365,AN,Striped Bass,0.755,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521222,Acc&Press,365,AN,Striped Bass,0.662,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1521223,Acc&Press,365,NA,Striped Bass,0.735,NA,U,Jones Beach,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1521224,Acc&Press,365,AN,Striped Bass,0.787,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+2,teleost,V13AP-1X,1521219,Acc&Press,365,FL,Striped Bass,0.869,NA,U,Great South Bay,Southfork,132,11,162,3,0.272727273,0.018518519,0.067901235,Transient,1,5,"Yellowbar,Kismet",2
+3,teleost,V13AP-1x,1521220,Acc&Press,365,AN,Striped Bass,0.755,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521222,Acc&Press,365,AN,Striped Bass,0.662,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1521223,Acc&Press,365,NA,Striped Bass,0.735,NA,U,Jones Beach,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521224,Acc&Press,365,AN,Striped Bass,0.787,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521225,Acc&Press,365,AN,Striped Bass,0.694,NA,U,Rockaway,Southfork,17,1,337,1,1,0.002967359,0.002967359,Transient,1,12,Rockaway,1
-1,teleost,V13AP-1x,1521226,Acc&Press,365,AN,Striped Bass,0.859,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1521227,None,895,MF,Summer Flounder,0.466,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1521226,Acc&Press,365,AN,Striped Bass,0.859,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1521227,None,895,MF,Summer Flounder,0.466,NA,U,Moriches Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1521228,None,895,BS,Black Sea Bass,2.28,NA,U,Moriches Reef,Southfork,27060,23,410,23,1,0.056097561,0.056097561,Transient,23,9,Moriches,1
 2,teleost,V9-2X,1521229,None,895,BS,Black Sea Bass,0.335,NA,U,Moriches Reef,Southfork,64781,277,410,39,0.140794224,0.095121951,0.675609756,Intermittent Resident,21,5,Moriches,1
-2,teleost,V9-2X,1521230,None,895,BS,Black Sea Bass,0.29,NA,U,Moriches Reef,Southfork,385608,406,410,211,0.519704433,0.514634146,0.990243902,Resident,147,10,Moriches,1
+1,teleost,V9-2X,1521230,None,895,BS,Black Sea Bass,0.29,NA,U,Moriches Reef,Southfork,385608,406,410,211,0.519704433,0.514634146,0.990243902,Resident,147,10,Moriches,1
 2,teleost,V9-2X,1521231,None,895,BS,Black Sea Bass,0.265,NA,U,Moriches Reef,Southfork,127060,60,410,60,1,0.146341463,0.146341463,Transient,60,10,Moriches,1
 2,teleost,V9-2X,1521232,None,895,BS,Black Sea Bass,0.25,NA,U,Moriches Reef,Southfork,53397,36,410,36,1,0.087804878,0.087804878,Transient,36,9,Moriches,1
-2,teleost,V9-2X,1521233,None,895,KD,Black Sea Bass,0.265,NA,U,Moriches Reef,Southfork,229636,328,410,111,0.338414634,0.270731707,0.8,Intermittent Resident,63,6,Moriches,1
+1,teleost,V9-2X,1521233,None,895,KD,Black Sea Bass,0.265,NA,U,Moriches Reef,Southfork,229636,328,410,111,0.338414634,0.270731707,0.8,Intermittent Resident,63,6,Moriches,1
 2,teleost,V9-2X,1521234,None,895,BS,Black Sea Bass,0.22,NA,U,Moriches Reef,Southfork,87873,103,410,91,0.883495146,0.22195122,0.251219512,Transient,44,9,"Moriches,Twelve Mile",2
 2,teleost,V9-2X,1521235,None,895,BS,Summer Flounder,0.43,NA,U,NA,Southfork,14527,32,410,16,0.5,0.03902439,0.07804878,Transient,15,9,Moriches,1
 2,teleost,V9-2X,1521236,None,895,BS,Summer Flounder,0.25,NA,U,Moriches Reef,Southfork,11652,11,410,11,1,0.026829268,0.026829268,Transient,11,9,Moriches,1
 2,teleost,V9-2X,1521237,None,895,BS,Black Sea Bass,0.285,NA,U,Moriches Reef,Southfork,26515,25,410,25,1,0.06097561,0.06097561,Transient,25,9,Moriches,1
 2,teleost,V9-2X,1521238,None,895,BS,Black Sea Bass,0.23,NA,U,Moriches Reef,Southfork,117832,276,410,46,0.166666667,0.112195122,0.673170732,Intermittent Resident,25,5,"Moriches,Shinnecock",2
 2,teleost,V9-2X,1521239,None,895,KD,Black Sea Bass,0.22,NA,U,Shinnecock Bay,Southfork,16129,21,411,21,1,0.051094891,0.051094891,Transient,21,9,Shinnecock,1
-1,teleost,V9-2X,1521240,None,895,AN,Summer Flounder,0.325,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1521241,None,895,KD,Black Sea Bass,0.27,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1521240,None,895,AN,Summer Flounder,0.325,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1521241,None,895,KD,Black Sea Bass,0.27,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1521242,None,895,BS,Black Sea Bass,0.26,NA,U,NA,Southfork,23513,25,410,25,1,0.06097561,0.06097561,Transient,25,9,Moriches,1
 2,teleost,V9-2X,1521243,None,895,BS,Black Sea Bass,0.37,NA,U,Moriches Reef,Southfork,35795,29,410,29,1,0.070731707,0.070731707,Transient,29,9,Moriches,1
 2,teleost,V9-2X,1521244,None,895,BS,Black Sea Bass,0.24,NA,U,Moriches Reef,Southfork,217094,79,410,79,1,0.192682927,0.192682927,Transient,79,10,Moriches,1
 2,teleost,V9-2X,1521245,None,895,KD,Black Sea Bass,0.27,NA,U,Moriches Reef,Southfork,29800,25,410,25,1,0.06097561,0.06097561,Transient,25,9,Moriches,1
 2,teleost,V9-2X,1521246,None,895,KD,Black Sea Bass,0.225,NA,U,Moriches Reef,Southfork,9711,16,410,16,1,0.03902439,0.03902439,Transient,16,9,Moriches,1
-1,teleost,V9-2X,1521247,None,895,MM,Summer Flounder,0.41,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1521248,None,895,KD,Summer Flounder,0.35,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1521249,None,895,KD,Black Sea Bass,0.2,NA,U,Shinnecock Mile Bouy,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-2,teleost,V9-2X,1521250,None,895,LI,Black Sea Bass,0.25,NA,U,Moriches Reef,Southfork,381971,443,410,441,0.995485327,1.075609756,1.080487805,Resident,327,9,Moriches,1
+3,teleost,V9-2X,1521247,None,895,MM,Summer Flounder,0.41,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1521248,None,895,KD,Summer Flounder,0.35,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1521249,None,895,KD,Black Sea Bass,0.2,NA,U,Shinnecock Mile Bouy,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+1,teleost,V9-2X,1521250,None,895,LI,Black Sea Bass,0.25,NA,U,Moriches Reef,Southfork,381971,443,410,441,0.995485327,1.075609756,1.080487805,Resident,327,9,Moriches,1
 2,teleost,V9-2X,1521251,None,895,LI,Black Sea Bass,0.28,NA,U,Moriches Reef,Southfork,40762,34,410,34,1,0.082926829,0.082926829,Transient,34,9,Moriches,1
 2,teleost,V9-2X,1521252,None,895,BS,Black Sea Bass,0.285,NA,U,Moriches Reef,Southfork,98049,311,410,64,0.205787781,0.156097561,0.758536585,Intermittent Resident,34,6,Moriches,1
-2,teleost,V9-2X,1521253,None,895,LI,Black Sea Bass,0.27,NA,U,Moriches Reef,Southfork,170023,442,410,437,0.988687783,1.065853659,1.07804878,Resident,425,10,Moriches,1
-2,teleost,V9-2X,1521254,None,895,BS,Black Sea Bass,0.27,NA,U,Moriches Reef,Southfork,290304,366,410,127,0.346994536,0.309756098,0.892682927,Intermittent Resident,112,7,Moriches,1
-1,teleost,V9-2X,1521255,None,895,KD,Black Sea Bass,0.235,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1521256,None,895,LI,Black Sea Bass,0.29,NA,U,Moriches Reef,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+1,teleost,V9-2X,1521253,None,895,LI,Black Sea Bass,0.27,NA,U,Moriches Reef,Southfork,170023,442,410,437,0.988687783,1.065853659,1.07804878,Resident,425,10,Moriches,1
+1,teleost,V9-2X,1521254,None,895,BS,Black Sea Bass,0.27,NA,U,Moriches Reef,Southfork,290304,366,410,127,0.346994536,0.309756098,0.892682927,Intermittent Resident,112,7,Moriches,1
+3,teleost,V9-2X,1521255,None,895,KD,Black Sea Bass,0.235,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1521256,None,895,LI,Black Sea Bass,0.29,NA,U,Moriches Reef,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1521257,None,895,KD,Black Sea Bass,0.305,NA,U,Shinnecock Mile Bouy,Southfork,215,388,410,2,0.005154639,0.004878049,0.946341463,Intermittent Resident,1,10,Shinnecock,1
 2,teleost,V9-2X,1521258,None,895,KD,Black Sea Bass,0.35,NA,U,Moriches Reef,Southfork,8289,11,410,11,1,0.026829268,0.026829268,Transient,11,9,Moriches,1
-1,teleost,V9-2X,1521259,None,895,AS,Summer Flounder,0.395,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1521262,None,895,KD,Black Sea Bass,0.34,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1521263,None,895,KD,Black Sea Bass,0.39,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1521264,None,895,KD,Black Sea Bass,0.305,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1521259,None,895,AS,Summer Flounder,0.395,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1521262,None,895,KD,Black Sea Bass,0.34,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1521263,None,895,KD,Black Sea Bass,0.39,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1521264,None,895,KD,Black Sea Bass,0.305,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1521265,None,895,BS,Summer Flounder,0.47,NA,U,Shinnecock Bay,Southfork,19,1,410,1,1,0.002439024,0.002439024,Transient,1,10,Twelve Mile,1
 2,teleost,V9-2X,1521266,None,895,KD,Black Sea Bass,0.27,NA,U,Moriches Reef,Southfork,24092,325,410,72,0.221538462,0.175609756,0.792682927,Intermittent Resident,31,9,"Moriches,Twelve Mile",2
 2,elasmobranch,V13-1X,1521267,None,1825,KD,Clearnose Skate,0.625,NA,M,Shinnecock Bay,Southfork,225,139,411,4,0.028776978,0.00973236,0.338199513,Transient,1,10,"Rockaway,Moriches,Shinnecock",3
 2,elasmobranch,V13-1X,1521268,None,1825,KD,Clearnose Skate,0.635,NA,M,Shinnecock Bay,Southfork,629,83,411,3,0.036144578,0.00729927,0.201946472,Transient,2,9,"Moriches,Shinnecock",2
-1,elasmobranch,V13-1X,1521269,None,1825,KD,Clearnose Skate,0.61,NA,M,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1521269,None,1825,KD,Clearnose Skate,0.61,NA,M,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V13-1X,1521270,None,1825,FL,Clearnose Skate,0.7,NA,M,Shinnecock Bay,Southfork,310,315,411,6,0.019047619,0.01459854,0.766423358,Intermittent Resident,2,9,"Shinnecock,Moriches,Fire Island",3
 2,elasmobranch,V13-1X,1521271,None,1825,KD,Clearnose Skate,0.575,NA,U,Shinnecock Bay,Southfork,41,5,410,2,0.4,0.004878049,0.012195122,Transient,1,9,"Shinnecock,Moriches",2
-1,elasmobranch,V13-1X,1521272,None,1825,MM,Clearnose Skate,0.619,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1521273,None,1825,KD,Clearnose Skate,0.605,NA,M,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1521272,None,1825,MM,Clearnose Skate,0.619,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1521273,None,1825,KD,Clearnose Skate,0.605,NA,M,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V13-1X,1521274,None,1825,KD,Clearnose Skate,0.605,NA,M,Shinnecock Bay,Southfork,5,1,411,1,1,0.00243309,0.00243309,Transient,1,9,Shinnecock,1
 2,elasmobranch,V13-1X,1521275,None,1825,FL,Clearnose Skate,0.52,NA,M,Shinnecock Bay,Southfork,2988,377,411,10,0.026525199,0.0243309,0.917274939,Intermittent Resident,8,9,"Shinnecock,Rockaway",2
-1,elasmobranch,V13-1X,1521276,None,1825,JQ,Little Skate,0.437,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V9-2X,1521277,None,895,AS,Little Skate,0.45,NA,F,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1521278,None,1825,NA,Little Skate,0.417,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1521276,None,1825,JQ,Little Skate,0.437,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V9-2X,1521277,None,895,AS,Little Skate,0.45,NA,F,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1521278,None,1825,NA,Little Skate,0.417,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V13-1X,1521279,None,1825,AS,Little Skate,0.458,NA,M,Rockaway,Southfork,68,1,337,1,1,0.002967359,0.002967359,Transient,1,11,Fire Island,1
-1,elasmobranch,V13-1X,1521280,None,1825,JQ,Winter Skate,0.506,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1521281,None,1825,MM,Little Skate,0.453,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1521282,None,1825,AS,Little Skate,0.41,NA,F,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V9-2X,1521283,None,895,AS,Little Skate,0.463,NA,F,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1521284,None,1825,MM,Little Skate,0.51,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V9-2X,1521285,None,895,AS,Little Skate,0.48,NA,M,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1521286,None,1825,AS,Little Skate,0.463,NA,M,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1521280,None,1825,JQ,Winter Skate,0.506,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1521281,None,1825,MM,Little Skate,0.453,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1521282,None,1825,AS,Little Skate,0.41,NA,F,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V9-2X,1521283,None,895,AS,Little Skate,0.463,NA,F,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1521284,None,1825,MM,Little Skate,0.51,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V9-2X,1521285,None,895,AS,Little Skate,0.48,NA,M,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1521286,None,1825,AS,Little Skate,0.463,NA,M,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1521979,Acc&Press,365,FL,Striped Bass,1.132,NA,F,NA,Southfork,19,1,343,1,1,0.002915452,0.002915452,Transient,1,11,"Kismet,Yellowbar",2
 2,teleost,V9-2x,1534330,Press,717,BS,Black Sea Bass,0.28,Mature,U,Shinnecock Reef,NYSDEC,352,2,85,2,1,0.023529412,0.023529412,Transient,2,7,Shinnecock,1
 2,teleost,V9-2x,1534331,Press,717,BS,Black Sea Bass,0.28,Mature,U,Shinnecock Reef,NYSDEC,47185,40,85,38,0.95,0.447058824,0.470588235,Transient,20,8,Shinnecock,1
@@ -467,7 +467,7 @@
 2,teleost,V9-2x,1534337,Press,717,BS,Black Sea Bass,0.27,Mature,U,Shinnecock Reef,NYSDEC,30924,41,85,41,1,0.482352941,0.482352941,Transient,41,8,Shinnecock,1
 2,teleost,V9-2x,1534338,Press,717,BS,Black Sea Bass,0.29,Mature,U,Shinnecock Reef,NYSDEC,26,1,85,1,1,0.011764706,0.011764706,Transient,1,7,Shinnecock,1
 2,teleost,V9-2x,1534339,Press,717,BS,Black Sea Bass,0.37,Mature,U,Shinnecock Reef,NYSDEC,59341,56,85,56,1,0.658823529,0.658823529,Resident,56,8,Shinnecock,1
-1,teleost,V9-2x,1534340,Press,717,BS,Black Sea Bass,0.34,Mature,U,Shinnecock Reef,NYSDEC,160,11,85,3,0.272727273,0.035294118,0.129411765,Transient,2,7,Shinnecock,1
+3,teleost,V9-2x,1534340,Press,717,BS,Black Sea Bass,0.34,Mature,U,Shinnecock Reef,NYSDEC,160,11,85,3,0.272727273,0.035294118,0.129411765,Transient,2,7,Shinnecock,1
 2,teleost,V9-2x,1534341,Press,717,BS,Black Sea Bass,0.3,Mature,U,Shinnecock Reef,NYSDEC,89539,109,85,106,0.972477064,1.247058824,1.282352941,Resident,80,8,Shinnecock,1
 2,teleost,V9-2x,1534344,Press,717,BS,Black Sea Bass,0.29,Mature,U,Shinnecock Reef,NYSDEC,56032,43,85,37,0.860465116,0.435294118,0.505882353,Intermittent Resident,34,8,Shinnecock,1
 2,teleost,V9-2x,1534345,Press,717,BS,Black Sea Bass,0.3,Mature,U,Shinnecock Reef,NYSDEC,232,2,85,2,1,0.023529412,0.023529412,Transient,2,7,Shinnecock,1
@@ -482,13 +482,13 @@
 2,teleost,V9-2x,1534365,Press,717,BS,Black Sea Bass,0.27,Mature,U,Shinnecock Reef,NYSDEC,304,2,85,2,1,0.023529412,0.023529412,Transient,2,7,Shinnecock,1
 2,teleost,V9-2x,1534371,Press,717,BS,Black Sea Bass,0.38,Mature,U,Shinnecock Reef,NYSDEC,30095,54,85,54,1,0.635294118,0.635294118,Resident,54,8,Shinnecock,1
 2,teleost,V9-2x,1534377,Press,717,BS,Black Sea Bass,0.36,Mature,U,Shinnecock Reef,NYSDEC,49798,53,85,49,0.924528302,0.576470588,0.623529412,Resident,35,8,Shinnecock,1
-1,elasmobranch,V13-1X,1534867,None,1825,NA,Little Skate,0.434,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1534868,None,1825,MM,Clearnose Skate,0.58,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1534910,None,1825,NA,Little Skate,0.439,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1534911,None,1825,NA,Little Skate,0.454,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1534912,None,1825,NA,Little Skate,0.39,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1534867,None,1825,NA,Little Skate,0.434,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1534868,None,1825,MM,Clearnose Skate,0.58,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1534910,None,1825,NA,Little Skate,0.439,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1534911,None,1825,NA,Little Skate,0.454,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1534912,None,1825,NA,Little Skate,0.39,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V13-1X,1534913,None,1825,TE,Winter Skate,0.554,NA,F,NA,Southfork,37,1,-18,1,1,-0.055555556,-0.055555556,Transient,1,11,Shinnecock,1
-1,elasmobranch,V13-1X,1534914,None,1825,NA,Little Skate,0.427,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1534914,None,1825,NA,Little Skate,0.427,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1535781,Acc&Press,365,KD,Striped Bass,0.69,NA,U,Shinnecock Bay,Southfork,6,1,354,1,1,0.002824859,0.002824859,Transient,1,11,Yellowbar,1
 2,elasmobranch,V16TP-1x,1536424,Press&Temp,3650,BS,Sandbar,1.49,Immature,M,Jones Beach,Sunrise,174,13,107,6,0.461538462,0.056074766,0.121495327,Transient,2,9,"Moriches,Fire Island",2
 2,elasmobranch,V16TP-1x,1536425,Press&Temp,3650,BS,Dusky,1.07,Immature,M,Moriches Reef,Sunrise,96,18,95,4,0.222222222,0.042105263,0.189473684,Transient,2,7,"Shinnecock,Moriches,Hempstead",3
@@ -497,48 +497,48 @@
 2,elasmobranch,V16TP-1x,1536428,Press&Temp,3650,BS,Dusky,1.04,Immature,F,Jones Beach,Sunrise,501,54,99,14,0.259259259,0.141414141,0.545454545,Intermittent Resident,2,8,"Hempstead,Rockaway,McAllister,Fire Island",4
 2,elasmobranch,V16TP-1x,1536429,Press&Temp,3650,BS,Smooth Dogfish,0.93,Mature,M,Jones Beach,Sunrise,179,3,126,3,1,0.023809524,0.023809524,Transient,3,6,"Yellowbar,Kismet",2
 2,elasmobranch,V16TP-1x,1536430,Press&Temp,3650,BS,Dusky,1.2,Immature,M,Jones Beach,Sunrise,1098,66,98,20,0.303030303,0.204081633,0.673469388,Intermittent Resident,4,8,"Fire Island,Moriches,USS San Diego,Hempstead,McAllister,Atlantic Beach,Rockaway",7
-1,elasmobranch,V16TP-1x,1536431,Press&Temp,3650,LI,Sand Tiger,2.4,Mature,F,Jones Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1536431,Press&Temp,3650,LI,Sand Tiger,2.4,Mature,F,Jones Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1536432,Press&Temp,3650,BS,Smooth Dogfish,1.07,Mature,F,Jones Beach,Sunrise,1192,70,126,10,0.142857143,0.079365079,0.555555556,Intermittent Resident,8,6,"Yellowbar,Shinnecock",2
 2,elasmobranch,V16TP-1x,1536433,Press&Temp,3650,BS,Sand Tiger,2.1,Mature,M,Fire Island,Sunrise,166,59,100,3,0.050847458,0.03,0.59,Intermittent Resident,1,9,Moriches,1
 2,elasmobranch,V16TP-1x,1536434,Press&Temp,3650,LI,Smooth Dogfish,0.97,Immature,F,Jones Beach,Sunrise,79,1,126,1,1,0.007936508,0.007936508,Transient,1,9,Fire Island,1
 2,elasmobranch,V16TP-1x,1536435,Press&Temp,3650,GM,Dusky,1.07,Immature,F,Jones Beach,Sunrise,131,51,99,7,0.137254902,0.070707071,0.515151515,Intermittent Resident,1,7,"Fire Island,Rockaway,McAllister,Hempstead",4
 2,elasmobranch,V16TP-1x,1536436,Press&Temp,3650,BC,Dusky,1.08,Immature,F,Moriches Reef,Sunrise,203,57,86,9,0.157894737,0.104651163,0.662790698,Intermittent Resident,2,7,"Moriches,Fire Island,Hempstead,Rockaway",4
-1,elasmobranch,V16TP-1x,1536437,Press&Temp,3650,GM,Sandbar,1.32,Immature,M,Southampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1536437,Press&Temp,3650,GM,Sandbar,1.32,Immature,M,Southampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1536438,Press&Temp,3650,BC,Dusky,0.94,Immature,M,Moriches Reef,Sunrise,266,61,86,7,0.114754098,0.081395349,0.709302326,Intermittent Resident,1,9,"Moriches,Atlantic Beach,McAllister,Fire Island,Rockaway",5
 2,elasmobranch,V16TP-1x,1536439,Press&Temp,3650,GM,Dusky,1.25,Immature,F,Southampton,Sunrise,131,33,80,4,0.121212121,0.05,0.4125,Transient,1,8,Moriches,1
 2,elasmobranch,V16TP-1x,1536440,Press&Temp,3650,LI,Dusky,1.13,Immature,M,East Hampton,Sunrise,186,24,82,8,0.333333333,0.097560976,0.292682927,Transient,7,8,"Shinnecock,Rockaway",2
 2,elasmobranch,V16TP-1x,1536441,Press&Temp,3650,GM,Sand Tiger,1.68,Immature,F,Tobay Beach,Sunrise,39,24,76,2,0.083333333,0.026315789,0.315789474,Transient,1,9,"Hempstead,Rockaway",2
 2,elasmobranch,V16TP-1x,1536442,Press&Temp,3650,HN,Dusky,1.17,Immature,M,Southampton,Sunrise,76,20,72,4,0.2,0.055555556,0.277777778,Transient,1,8,"Moriches,Fire Island",2
 2,elasmobranch,V16TP-1x,1536443,Press&Temp,3650,BS,Dusky,1.09,Immature,F,Jones Beach,Sunrise,73,6,52,3,0.5,0.057692308,0.115384615,Transient,1,9,"McAllister,Rockaway,Atlantic Beach",3
-1,elasmobranch,V16TP-1x,1536444,Press&Temp,3650,HN,Dusky,1.45,Immature,F,Southampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1536444,Press&Temp,3650,HN,Dusky,1.45,Immature,F,Southampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1536445,Press&Temp,3650,BS,Sand Tiger,1.52,Immature,F,Tobay Beach,Sunrise,401,15,52,7,0.466666667,0.134615385,0.288461538,Transient,3,10,"McAllister,Atlantic Beach,Rockaway,Hempstead",4
 2,elasmobranch,V16TP-1x,1536446,Press&Temp,3650,HN,Dusky,1.25,Immature,F,Southampton,Sunrise,2,1,72,1,1,0.013888889,0.013888889,Transient,1,9,Fire Island,1
-1,elasmobranch,V16TP-1x,1536447,Press&Temp,3650,GM,Sand Tiger,1.77,Immature,F,Tobay Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1536447,Press&Temp,3650,GM,Sand Tiger,1.77,Immature,F,Tobay Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1536448,Press&Temp,3650,BC,Dusky,1.48,Immature,M,Southampton,Sunrise,99,34,73,6,0.176470588,0.082191781,0.465753425,Transient,2,9,"Shinnecock,Fire Island",2
 2,elasmobranch,V16TP-1x,1536449,Press&Temp,3650,BP,Sand Tiger,2.04,Immature,F,Tobay Beach,Sunrise,13,1,94,1,1,0.010638298,0.010638298,Transient,1,7,Fire Island,1
-1,elasmobranch,V16TP-1x,1536450,Press&Temp,3650,BC,Sand Tiger,1.5,Immature,F,Jones Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1536450,Press&Temp,3650,BC,Sand Tiger,1.5,Immature,F,Jones Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1536451,Press&Temp,3650,BP,Dusky,1.45,Immature,M,Jones Beach,Sunrise,52,55,97,5,0.090909091,0.051546392,0.567010309,Intermittent Resident,2,9,"Fire Island,Shinnecock,Moriches",3
 2,elasmobranch,V16TP-1x,1536452,Press&Temp,3650,BS,Dusky,1.16,Immature,M,Fire Island,Sunrise,173,61,98,14,0.229508197,0.142857143,0.62244898,Intermittent Resident,2,8,"Atlantic Beach,McAllister,Hempstead,Rockaway",4
 2,elasmobranch,V16TP-1x,1536453,Press&Temp,3650,BP,Sand Tiger,1.98,Immature,F,Tobay Beach,Sunrise,87,2,94,2,1,0.021276596,0.021276596,Transient,2,8,Fire Island,1
 2,elasmobranch,V16TP-1x,1536454,Press&Temp,3650,BS,Dusky,1.06,Immature,M,Fire Island,Sunrise,204,67,98,13,0.194029851,0.132653061,0.683673469,Intermittent Resident,2,9,"McAllister,Hempstead,Rockaway,Atlantic Beach",4
 2,elasmobranch,V16TP-1x,1536455,Press&Temp,3650,BC,Sandbar,1.33,Immature,M,Jones Beach,Sunrise,254,70,107,11,0.157142857,0.102803738,0.654205607,Intermittent Resident,3,8,"Fire Island,Hempstead,McAllister,USS San Diego",4
-1,elasmobranch,V16TP-1x,1536456,Press&Temp,3650,BC,Smooth Dogfish,0.85,Mature,M,Moriches Reef,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1536456,Press&Temp,3650,BC,Smooth Dogfish,0.85,Mature,M,Moriches Reef,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1536457,Press&Temp,3650,BP,Dusky,1.21,Immature,M,Fire Island,Sunrise,34,23,106,5,0.217391304,0.047169811,0.216981132,Transient,2,9,"Rockaway,Fire Island,USS San Diego",3
 2,elasmobranch,V16TP-1x,1536458,Press&Temp,3650,LI,Sand Tiger,1.45,Immature,M,Tobay Beach,Sunrise,360,2,95,2,1,0.021052632,0.021052632,Transient,2,7,Fire Island,1
-1,elasmobranch,V16TP-1x,1536459,Press&Temp,3650,BP,Sandbar,1.67,Mature,F,Fire Island,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1536459,Press&Temp,3650,BP,Sandbar,1.67,Mature,F,Fire Island,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1536461,Press&Temp,3650,BP,Sand Tiger,2.29,Mature,F,Tobay Beach,Sunrise,252,65,94,5,0.076923077,0.053191489,0.691489362,Intermittent Resident,2,9,"Moriches,Fire Island",2
-1,elasmobranch,V16TP-1x,1536463,Press&Temp,3650,LI,Sand Tiger,1.87,Immature,F,Tobay Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1536463,Press&Temp,3650,LI,Sand Tiger,1.87,Immature,F,Tobay Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1536465,Press&Temp,3650,LI,Sand Tiger,1.98,Immature,F,Tobay Beach,Sunrise,138,45,95,5,0.111111111,0.052631579,0.473684211,Transient,3,8,"McAllister,Atlantic Beach,Rockaway",3
 2,elasmobranch,V16TP-1x,1536466,Press&Temp,3650,BP,Sandbar,1.41,Immature,M,Fire Island,Sunrise,59,1,106,1,1,0.009433962,0.009433962,Transient,1,9,Moriches,1
-1,elasmobranch,V16TP-1x,1536467,Press&Temp,3650,LI,Sand Tiger,2.12,Immature,F,Tobay Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1536467,Press&Temp,3650,LI,Sand Tiger,2.12,Immature,F,Tobay Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1536468,Press&Temp,3650,BS,Sandbar,1.41,Immature,F,Tobay Beach,Sunrise,77,1,72,1,1,0.013888889,0.013888889,Transient,1,8,McAllister,1
-1,elasmobranch,V16TP-1x,1536469,Press&Temp,3650,BS,Smooth Dogfish,0.96,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1536471,Press&Temp,3650,BS,Smooth Dogfish,1.2,Mature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1536469,Press&Temp,3650,BS,Smooth Dogfish,0.96,Immature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1536471,Press&Temp,3650,BS,Smooth Dogfish,1.2,Mature,F,East Hampton,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1536480,Press&Temp,3650,BC,Sand Tiger,1.94,Immature,F,Tobay Beach,Sunrise,78,1,47,1,1,0.021276596,0.021276596,Transient,1,9,Hempstead,1
 2,elasmobranch,V16TP-1x,1536482,Press&Temp,3650,LI,Dusky,1.07,Immature,M,Southampton,Sunrise,71,45,69,4,0.088888889,0.057971014,0.652173913,Intermittent Resident,1,9,"Moriches,Hempstead,Atlantic Beach,Fire Island",4
-1,elasmobranch,V16TP-1x,1536483,Press&Temp,3650,LI,Sand Tiger,1.67,Immature,F,Jones Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1536483,Press&Temp,3650,LI,Sand Tiger,1.67,Immature,F,Jones Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1536484,Press&Temp,3650,BC,Dusky,1.12,Immature,F,Tobay Beach,Sunrise,4,3,99,2,0.666666667,0.02020202,0.03030303,Transient,1,7,Rockaway,1
-1,elasmobranch,V16TP-1x,1536485,Press&Temp,3650,LI,Sand Tiger,1.62,Immature,F,Tobay Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1536485,Press&Temp,3650,LI,Sand Tiger,1.62,Immature,F,Tobay Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1536486,Press&Temp,3650,BC,Dusky,0.97,Immature,F,Jones Beach,Sunrise,175,27,99,6,0.222222222,0.060606061,0.272727273,Transient,2,8,"McAllister,Atlantic Beach,Hempstead",3
 2,elasmobranch,V16TP-1x,1536487,Press&Temp,3650,LI,Sand Tiger,2.23,Mature,M,Tobay Beach,Sunrise,337,75,95,9,0.12,0.094736842,0.789473684,Intermittent Resident,3,8,"McAllister,Rockaway,Atlantic Beach,USS San Diego,Fire Island",5
 2,elasmobranch,V16TP-1x,1536488,Press&Temp,3650,BC,Dusky,1.05,Immature,M,Jones Beach,Sunrise,270,35,99,14,0.4,0.141414141,0.353535354,Transient,9,8,"Hempstead,Rockaway,Atlantic Beach,McAllister",4
@@ -548,159 +548,159 @@
 2,elasmobranch,V16TP-1x,1536492,Press&Temp,3650,BC,Dusky,0.95,Immature,M,Fire Island,Sunrise,73,1,101,1,1,0.00990099,0.00990099,Transient,1,7,Fire Island,1
 2,elasmobranch,V16TP-1x,1536493,Press&Temp,3650,BC,Dusky,0.99,Immature,F,Tobay Beach,Sunrise,200,49,99,7,0.142857143,0.070707071,0.494949495,Transient,2,8,"Hempstead,Fire Island",2
 2,elasmobranch,V16TP-1x,1536494,Press&Temp,3650,BC,Dusky,1.06,Immature,F,Fire Island,Sunrise,476,31,101,9,0.290322581,0.089108911,0.306930693,Transient,3,7,"Fire Island,McAllister,Hempstead,Atlantic Beach",4
-1,elasmobranch,V16TP-1x,1536495,Press&Temp,3650,BC,Dusky,0.98,Immature,M,Fire Island,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1536495,Press&Temp,3650,BC,Dusky,0.98,Immature,M,Fire Island,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1X,1539750,Acc&Press,365,NA,Striped Bass,0.933,NA,U,Great South Bay,Southfork,51,191,162,6,0.031413613,0.037037037,1.179012346,Intermittent Resident,2,11,"Yellowbar,Fire Island",2
-1,teleost,V13AP-1x,1539751,Acc&Press,365,AN,Striped Bass,0.755,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1539751,Acc&Press,365,AN,Striped Bass,0.755,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1539752,Acc&Press,365,KD,Striped Bass,0.635,NA,U,Shinnecock Bay,Southfork,23,12,354,4,0.333333333,0.011299435,0.033898305,Transient,2,11,Yellowbar,1
 2,teleost,V13AP-1x,1539753,Acc&Press,365,KD,Striped Bass,0.73,NA,U,Shinnecock Bay,Southfork,103,349,354,3,0.008595989,0.008474576,0.985875706,Intermittent Resident,1,11,"Moriches,Hempstead",2
-1,teleost,V13AP-1x,1539754,Acc&Press,365,KD,Striped Bass,0.57,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539755,Acc&Press,365,MF,Striped Bass,0.858,NA,U,Great South Bay,Southfork,38,7,162,2,0.285714286,0.012345679,0.043209877,Transient,1,5,"Yellowbar,Kismet",2
-1,teleost,V13AP-1X,1539756,Acc&Press,365,NA,Striped Bass,0.83,NA,U,Great South Bay,Southfork,10,8,162,2,0.25,0.012345679,0.049382716,Transient,1,5,"Yellowbar,Kismet",2
-1,teleost,V13AP-1x,1539757,Acc&Press,365,AN,Striped Bass,0.634,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1539758,Acc&Press,365,AN,Striped Bass,0.597,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1539754,Acc&Press,365,KD,Striped Bass,0.57,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+2,teleost,V13AP-1X,1539755,Acc&Press,365,MF,Striped Bass,0.858,NA,U,Great South Bay,Southfork,38,7,162,2,0.285714286,0.012345679,0.043209877,Transient,1,5,"Yellowbar,Kismet",2
+2,teleost,V13AP-1X,1539756,Acc&Press,365,NA,Striped Bass,0.83,NA,U,Great South Bay,Southfork,10,8,162,2,0.25,0.012345679,0.049382716,Transient,1,5,"Yellowbar,Kismet",2
+3,teleost,V13AP-1x,1539757,Acc&Press,365,AN,Striped Bass,0.634,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1539758,Acc&Press,365,AN,Striped Bass,0.597,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1X,1539761,Acc&Press,365,MF,Striped Bass,0.905,NA,U,Great South Bay,Southfork,783,173,162,6,0.034682081,0.037037037,1.067901235,Intermittent Resident,4,5,"Yellowbar,Kismet,Shinnecock",3
-1,teleost,V13AP-1X,1539762,Acc&Press,365,AN,Striped Bass,0.936,NA,U,Jones Beach,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539763,Acc&Press,365,NA,Striped Bass,0.715,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539764,Acc&Press,365,NA,Striped Bass,0.805,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539762,Acc&Press,365,AN,Striped Bass,0.936,NA,U,Jones Beach,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539763,Acc&Press,365,NA,Striped Bass,0.715,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539764,Acc&Press,365,NA,Striped Bass,0.805,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1X,1539765,Acc&Press,365,MM,Striped Bass,0.775,NA,U,Great South Bay,Southfork,76,189,162,3,0.015873016,0.018518519,1.166666667,Intermittent Resident,2,11,"Yellowbar,Fire Island",2
-1,teleost,V13AP-1X,1539766,Acc&Press,365,NA,Striped Bass,0.826,NA,U,Jones Beach,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539767,Acc&Press,365,FL,Striped Bass,0.937,NA,U,Jones Beach,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539769,Acc&Press,365,AN,Striped Bass,0.564,NA,U,Jamaica Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539770,Acc&Press,365,AN,Striped Bass,1.005,NA,U,Jones Beach,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539771,Acc&Press,365,AN,Striped Bass,0.834,NA,U,Jones Beach,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539772,Acc&Press,365,MF,Striped Bass,1.155,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539773,Acc&Press,365,NA,Striped Bass,0.852,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539774,Acc&Press,365,MF,Striped Bass,0.664,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1539775,Acc&Press,365,AN,Striped Bass,0.835,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539766,Acc&Press,365,NA,Striped Bass,0.826,NA,U,Jones Beach,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539767,Acc&Press,365,FL,Striped Bass,0.937,NA,U,Jones Beach,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539769,Acc&Press,365,AN,Striped Bass,0.564,NA,U,Jamaica Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539770,Acc&Press,365,AN,Striped Bass,1.005,NA,U,Jones Beach,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539771,Acc&Press,365,AN,Striped Bass,0.834,NA,U,Jones Beach,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539772,Acc&Press,365,MF,Striped Bass,1.155,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539773,Acc&Press,365,NA,Striped Bass,0.852,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539774,Acc&Press,365,MF,Striped Bass,0.664,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1539775,Acc&Press,365,AN,Striped Bass,0.835,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1x,1539776,Acc&Press,365,AN,Striped Bass,0.61,NA,U,Rockaway,Southfork,19,2,337,2,1,0.005934718,0.005934718,Transient,2,11,"Atlantic Beach,McAllister,Yellowbar",3
-1,teleost,V13AP-1x,1539777,Acc&Press,365,AN,Striped Bass,0.631,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1539778,Acc&Press,365,AN,Striped Bass,0.677,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1539779,Acc&Press,365,AN,Striped Bass,0.615,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1539780,Acc&Press,365,AN,Striped Bass,0.665,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1539782,Acc&Press,365,KD,Striped Bass,0.62,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1539783,Acc&Press,365,AN,Striped Bass,0.605,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,1539784,Acc&Press,365,AN,Striped Bass,0.585,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539785,Acc&Press,365,AN,Striped Bass,0.642,NA,U,Jamaica Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1539777,Acc&Press,365,AN,Striped Bass,0.631,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1539778,Acc&Press,365,AN,Striped Bass,0.677,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1539779,Acc&Press,365,AN,Striped Bass,0.615,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1539780,Acc&Press,365,AN,Striped Bass,0.665,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1539782,Acc&Press,365,KD,Striped Bass,0.62,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1539783,Acc&Press,365,AN,Striped Bass,0.605,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,1539784,Acc&Press,365,AN,Striped Bass,0.585,NA,U,Rockaway,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539785,Acc&Press,365,AN,Striped Bass,0.642,NA,U,Jamaica Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1X,1539786,Acc&Press,365,FL,Striped Bass,0.854,NA,U,Great South Bay,Southfork,12,3,-19,2,0.666666667,-0.105263158,-0.157894737,Transient,1,11,Fire Island,1
-1,teleost,V13AP-1X,1539787,Acc&Press,365,FL,Striped Bass,0.518,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539788,Acc&Press,365,Fl,Striped Bass,0.846,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539789,Acc&Press,365,MF,Striped Bass,0.642,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539790,Acc&Press,365,AN,Striped Bass,0.656,NA,U,Jamaica Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539787,Acc&Press,365,FL,Striped Bass,0.518,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539788,Acc&Press,365,Fl,Striped Bass,0.846,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539789,Acc&Press,365,MF,Striped Bass,0.642,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539790,Acc&Press,365,AN,Striped Bass,0.656,NA,U,Jamaica Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1X,1539791,Acc&Press,365,FL,Striped Bass,0.848,NA,U,NA,Southfork,51,2,-19,2,1,-0.105263158,-0.105263158,Transient,2,11,Fire Island,1
-1,teleost,V13AP-1X,1539792,Acc&Press,365,MF,Striped Bass,0.662,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539793,Acc&Press,365,FL,Striped Bass,0.595,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539794,Acc&Press,365,MF,Striped Bass,0.894,NA,U,Jones Beach,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539795,Acc&Press,365,FL,Striped Bass,0.772,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539796,Acc&Press,365,MF,Striped Bass,1.038,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1539797,None,1825,FL,Clearnose Skate,0.708,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539798,Acc&Press,365,FL,Striped Bass,0.904,NA,U,Jones Beach,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1539799,Acc&Press,365,MF,Striped Bass,1.05,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539792,Acc&Press,365,MF,Striped Bass,0.662,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539793,Acc&Press,365,FL,Striped Bass,0.595,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539794,Acc&Press,365,MF,Striped Bass,0.894,NA,U,Jones Beach,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539795,Acc&Press,365,FL,Striped Bass,0.772,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539796,Acc&Press,365,MF,Striped Bass,1.038,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1539797,None,1825,FL,Clearnose Skate,0.708,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539798,Acc&Press,365,FL,Striped Bass,0.904,NA,U,Jones Beach,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1539799,Acc&Press,365,MF,Striped Bass,1.05,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1561914,None,895,JQ,Black Sea Bass,0.265,NA,U,Shinnecock Bay,Southfork,27884,15,9,15,1,1.666666667,1.666666667,Resident,15,10,Shinnecock,1
 2,teleost,V9-2X,1561915,None,895,TE,Black Sea Bass,0.28,NA,U,Shinnecock Bay,Southfork,20397,18,9,18,1,2,2,Resident,18,10,Shinnecock,1
 2,teleost,V9-2X,1561916,None,895,JQ,Black Sea Bass,0.244,NA,U,Shinnecock Bay,Southfork,30480,17,9,17,1,1.888888889,1.888888889,Resident,17,10,Shinnecock,1
 2,teleost,V9-2X,1561917,None,895,TE,Black Sea Bass,0.3,NA,U,Shinnecock Bay,Southfork,21272,12,9,12,1,1.333333333,1.333333333,Resident,12,10,Shinnecock,1
 2,teleost,V9-2X,1561918,None,895,JQ,Black Sea Bass,0.255,NA,U,Shinnecock Bay,Southfork,36111,20,9,20,1,2.222222222,2.222222222,Resident,20,10,Shinnecock,1
-2,teleost,V9-2X,1561919,None,895,TE,Black Sea Bass,0.401,NA,U,Shinnecock Bay,Southfork,28475,42,9,42,1,4.666666667,4.666666667,Resident,42,10,Shinnecock,1
-2,teleost,V9-2X,1561920,None,895,FL,Black Sea Bass,0.35,NA,U,Shinnecock Bay,Southfork,83935,29,9,29,1,3.222222222,3.222222222,Resident,29,10,Shinnecock,1
-1,teleost,V9-2X,1561921,None,895,AN,Summer Flounder,0.4,NA,U,Montauk,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1561922,None,895,AN,Black Sea Bass,0.333,NA,U,Montauk,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1561923,None,895,AN,Summer Flounder,0.382,NA,U,Montauk,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1561924,None,895,AN,Summer Flounder,0.445,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1561925,None,895,FL,Summer Flounder,0.389,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1561926,None,895,AN,Summer Flounder,0.44,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+1,teleost,V9-2X,1561919,None,895,TE,Black Sea Bass,0.401,NA,U,Shinnecock Bay,Southfork,28475,42,9,42,1,4.666666667,4.666666667,Resident,42,10,Shinnecock,1
+1,teleost,V9-2X,1561920,None,895,FL,Black Sea Bass,0.35,NA,U,Shinnecock Bay,Southfork,83935,29,9,29,1,3.222222222,3.222222222,Resident,29,10,Shinnecock,1
+3,teleost,V9-2X,1561921,None,895,AN,Summer Flounder,0.4,NA,U,Montauk,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1561922,None,895,AN,Black Sea Bass,0.333,NA,U,Montauk,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1561923,None,895,AN,Summer Flounder,0.382,NA,U,Montauk,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1561924,None,895,AN,Summer Flounder,0.445,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1561925,None,895,FL,Summer Flounder,0.389,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1561926,None,895,AN,Summer Flounder,0.44,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1561927,None,895,AN,Summer Flounder,0.392,NA,U,Shinnecock Bay,Southfork,292,1,71,1,1,0.014084507,0.014084507,Transient,1,9,Shinnecock,1
-1,teleost,V9-2X,1561928,None,895,AN,Summer Flounder,0.458,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1561929,None,895,FL,Summer Flounder,0.404,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1561930,None,895,AN,Summer Flounder,0.379,NA,U,East Hampton,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1561928,None,895,AN,Summer Flounder,0.458,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1561929,None,895,FL,Summer Flounder,0.404,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1561930,None,895,AN,Summer Flounder,0.379,NA,U,East Hampton,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1561931,None,895,AN,Summer Flounder,0.414,NA,U,Montauk,Southfork,582,2,72,2,1,0.027777778,0.027777778,Transient,2,11,Fire Island,1
-1,teleost,V9-2X,1561932,None,895,AN,Black Sea Bass,0.458,NA,U,Montauk,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1561933,None,895,AN,Summer Flounder,0.382,NA,U,Montauk,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1561934,None,895,AN,Black Sea Bass,0.367,NA,U,Montauk,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2x,1561935,None,895,MF,Summer Flounder,0.5,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1561932,None,895,AN,Black Sea Bass,0.458,NA,U,Montauk,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1561933,None,895,AN,Summer Flounder,0.382,NA,U,Montauk,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1561934,None,895,AN,Black Sea Bass,0.367,NA,U,Montauk,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2x,1561935,None,895,MF,Summer Flounder,0.5,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2x,1561936,None,895,AN,Summer Flounder,0.455,NA,U,Shinnecock Bay,Southfork,3,1,121,1,1,0.008264463,0.008264463,Transient,1,9,Shinnecock,1
-1,teleost,V9-2X,1561938,None,895,AN,Black Sea Bass,0.41,NA,U,Shinnecock Reef,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1561939,None,895,AN,Black Sea Bass,0.315,NA,U,Shinnecock Reef,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2X,1561940,None,895,NA,Summer Flounder,0.376,NA,U,Shinnecock Reef,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1561938,None,895,AN,Black Sea Bass,0.41,NA,U,Shinnecock Reef,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1561939,None,895,AN,Black Sea Bass,0.315,NA,U,Shinnecock Reef,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2X,1561940,None,895,NA,Summer Flounder,0.376,NA,U,Shinnecock Reef,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V9-2X,1561941,None,895,FL,Summer Flounder,0.384,NA,U,Great South Bay,Southfork,5,1,78,1,1,0.012820513,0.012820513,Transient,1,8,Fire Island,1
-1,teleost,V9-2x,1561942,None,895,AN,Summer Flounder,0.411,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V9-2x,1561943,None,895,AN,Summer Flounder,0.407,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1561944,None,1825,JQ,Little Skate,0.451,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1561945,None,1825,MM,Clearnose Skate,0.594,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1561948,None,1825,MM,Clearnose Skate,0.571,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1561949,None,1825,NA,Little Skate,0.405,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1561951,None,1825,JQ,Little Skate,0.426,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1561952,None,1825,JQ,Little Skate,0.433,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V13-1X,1561953,None,1825,JQ,Winter Skate,0.615,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561954,Acc&Press,365,MF,Striped Bass,0.67,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561956,Acc&Press,365,MF,Striped Bass,0.946,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561957,Acc&Press,365,MF,Striped Bass,0.654,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561958,Acc&Press,365,MF,Striped Bass,0.649,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561959,Acc&Press,365,MF,Striped Bass,1.057,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561960,Acc&Press,365,MF,Striped Bass,0.641,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2x,1561942,None,895,AN,Summer Flounder,0.411,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V9-2x,1561943,None,895,AN,Summer Flounder,0.407,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1561944,None,1825,JQ,Little Skate,0.451,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1561945,None,1825,MM,Clearnose Skate,0.594,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1561948,None,1825,MM,Clearnose Skate,0.571,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1561949,None,1825,NA,Little Skate,0.405,NA,M,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1561951,None,1825,JQ,Little Skate,0.426,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1561952,None,1825,JQ,Little Skate,0.433,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V13-1X,1561953,None,1825,JQ,Winter Skate,0.615,NA,F,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561954,Acc&Press,365,MF,Striped Bass,0.67,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561956,Acc&Press,365,MF,Striped Bass,0.946,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561957,Acc&Press,365,MF,Striped Bass,0.654,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561958,Acc&Press,365,MF,Striped Bass,0.649,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561959,Acc&Press,365,MF,Striped Bass,1.057,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561960,Acc&Press,365,MF,Striped Bass,0.641,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1X,1561961,Acc&Press,365,MF,Striped Bass,0.937,NA,U,NA,Southfork,19,1,-27,1,1,-0.037037037,-0.037037037,Transient,1,11,Fire Island,1
-1,teleost,V13AP-1X,1561962,Acc&Press,365,NA,Striped Bass,0.686,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561963,Acc&Press,365,MF,Striped Bass,1.177,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561964,Acc&Press,365,FL,Striped Bass,0.705,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561965,Acc&Press,365,MF,Striped Bass,0.674,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561966,Acc&Press,365,MF,Striped Bass,1.015,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561967,Acc&Press,365,FL,Striped Bass,0.646,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561962,Acc&Press,365,NA,Striped Bass,0.686,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561963,Acc&Press,365,MF,Striped Bass,1.177,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561964,Acc&Press,365,FL,Striped Bass,0.705,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561965,Acc&Press,365,MF,Striped Bass,0.674,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561966,Acc&Press,365,MF,Striped Bass,1.015,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561967,Acc&Press,365,FL,Striped Bass,0.646,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V13AP-1X,1561968,Acc&Press,365,MF,Striped Bass,1.128,NA,U,NA,Southfork,60,3,-15,2,0.666666667,-0.133333333,-0.2,Transient,1,11,Fire Island,1
-1,teleost,V13AP-1X,1561969,Acc&Press,365,TE,Striped Bass,0.76,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561970,Acc&Press,365,MF,Striped Bass,0.974,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561971,Acc&Press,365,MF,Striped Bass,1.004,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561972,Acc&Press,365,MF,Striped Bass,0.87,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561973,Acc&Press,365,MF,Striped Bass,0.897,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561974,Acc&Press,365,FL,Striped Bass,0.677,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561975,Acc&Press,365,FL,Striped Bass,0.89,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561976,Acc&Press,365,TE,Striped Bass,0.92,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561977,Acc&Press,365,FL,Striped Bass,1.085,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561978,Acc&Press,365,TE,Striped Bass,0.971,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561979,Acc&Press,365,TE,Striped Bass,0.843,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561980,Acc&Press,365,FL,Striped Bass,0.9,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561981,Acc&Press,365,FL,Striped Bass,0.844,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561982,Acc&Press,365,TE,Striped Bass,0.87,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561983,Acc&Press,365,TE,Striped Bass,0.949,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561984,Acc&Press,365,MF,Striped Bass,1.036,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561985,Acc&Press,365,MF,Striped Bass,0.895,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561986,Acc&Press,365,MF,Striped Bass,0.861,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561987,Acc&Press,365,FL,Striped Bass,0.853,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561988,Acc&Press,365,NA,Striped Bass,0.934,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561989,Acc&Press,365,MF,Striped Bass,0.91,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561990,Acc&Press,365,MF,Striped Bass,0.662,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561991,Acc&Press,365,MF,Striped Bass,1.035,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561992,Acc&Press,365,MF,Striped Bass,0.987,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1X,1561993,Acc&Press,365,MF,Striped Bass,0.98,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1565676,Press&Temp,3650,BC,Smooth Dogfish,0.7,Immature,M,Shinecock Bay,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561969,Acc&Press,365,TE,Striped Bass,0.76,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561970,Acc&Press,365,MF,Striped Bass,0.974,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561971,Acc&Press,365,MF,Striped Bass,1.004,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561972,Acc&Press,365,MF,Striped Bass,0.87,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561973,Acc&Press,365,MF,Striped Bass,0.897,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561974,Acc&Press,365,FL,Striped Bass,0.677,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561975,Acc&Press,365,FL,Striped Bass,0.89,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561976,Acc&Press,365,TE,Striped Bass,0.92,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561977,Acc&Press,365,FL,Striped Bass,1.085,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561978,Acc&Press,365,TE,Striped Bass,0.971,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561979,Acc&Press,365,TE,Striped Bass,0.843,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561980,Acc&Press,365,FL,Striped Bass,0.9,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561981,Acc&Press,365,FL,Striped Bass,0.844,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561982,Acc&Press,365,TE,Striped Bass,0.87,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561983,Acc&Press,365,TE,Striped Bass,0.949,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561984,Acc&Press,365,MF,Striped Bass,1.036,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561985,Acc&Press,365,MF,Striped Bass,0.895,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561986,Acc&Press,365,MF,Striped Bass,0.861,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561987,Acc&Press,365,FL,Striped Bass,0.853,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561988,Acc&Press,365,NA,Striped Bass,0.934,NA,U,Great South Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561989,Acc&Press,365,MF,Striped Bass,0.91,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561990,Acc&Press,365,MF,Striped Bass,0.662,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561991,Acc&Press,365,MF,Striped Bass,1.035,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561992,Acc&Press,365,MF,Striped Bass,0.987,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,1561993,Acc&Press,365,MF,Striped Bass,0.98,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1565676,Press&Temp,3650,BC,Smooth Dogfish,0.7,Immature,M,Shinecock Bay,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1565678,Press&Temp,3650,BS,Smooth Hammerhead,1.48,Immature,M,USS San Diego,Sunrise,28,23,54,3,0.130434783,0.055555556,0.425925926,Transient,1,8,"Atlantic Beach,USS San Diego",2
-1,elasmobranch,V16TP-1x,1565680,Press&Temp,3650,BC,Smooth Dogfish,0.77,Immature,M,Shinecock Bay,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1565682,Press&Temp,3650,BC,Smooth Dogfish,0.8,Immature,F,Shinecock Bay,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1565680,Press&Temp,3650,BC,Smooth Dogfish,0.77,Immature,M,Shinecock Bay,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1565682,Press&Temp,3650,BC,Smooth Dogfish,0.8,Immature,F,Shinecock Bay,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1565684,Press&Temp,3650,BC,Smooth Dogfish,1.17,Mature,F,Shinnecock Bay,Sunrise,8,1,52,1,1,0.019230769,0.019230769,Transient,1,9,Shinnecock,1
 2,elasmobranch,V16TP-1x,1565686,Press&Temp,3650,BC,Smooth Dogfish,1.16,Mature,F,Shinnecock Bay,Sunrise,134,17,52,3,0.176470588,0.057692308,0.326923077,Transient,1,9,"Moriches,Shinnecock",2
-1,elasmobranch,V16TP-1x,1565688,Press&Temp,3650,BC,Dusky,0.91,Immature,F,Jones Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1565689,Press&Temp,3650,BS,Sand Tiger,1.52,Immature,F,Tobay Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
-1,elasmobranch,V16TP-1x,1565690,Press&Temp,3650,BC,Smooth Dogfish,1.21,Mature,F,Shinnecock Bay,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1565688,Press&Temp,3650,BC,Dusky,0.91,Immature,F,Jones Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1565689,Press&Temp,3650,BS,Sand Tiger,1.52,Immature,F,Tobay Beach,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
+3,elasmobranch,V16TP-1x,1565690,Press&Temp,3650,BC,Smooth Dogfish,1.21,Mature,F,Shinnecock Bay,Sunrise,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1565693,Press&Temp,3650,HN,Dusky,1.29,Immature,M,Southampton,Sunrise,180,34,69,5,0.147058824,0.072463768,0.492753623,Transient,2,9,"Moriches,Fire Island,McAllister",3
 2,elasmobranch,V16TP-1x,1565696,Press&Temp,3650,HN,Dusky,1.16,Immature,F,Southampton,Sunrise,392,21,70,5,0.238095238,0.071428571,0.3,Transient,2,9,"McAllister,Fire Island,Shinnecock,Moriches",4
-1,teleost,V6-2x,1565965,None,49,BS,Tautog,0.143,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565966,None,49,BS,Tautog,0.155,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565967,None,49,BS,Tautog,0.143,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565968,None,49,BS,Tautog,0.174,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565969,None,49,BS,Tautog,0.15,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565970,None,49,BS,Tautog,0.171,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565971,None,49,BS,Tautog,0.19,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565972,None,49,BS,Black Sea Bass,0.154,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565973,None,49,BS,Tautog,0.168,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565974,None,49,BS,Tautog,0.17,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565975,None,49,BS,Black Sea Bass,0.154,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565965,None,49,BS,Tautog,0.143,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565966,None,49,BS,Tautog,0.155,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565967,None,49,BS,Tautog,0.143,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565968,None,49,BS,Tautog,0.174,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565969,None,49,BS,Tautog,0.15,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565970,None,49,BS,Tautog,0.171,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565971,None,49,BS,Tautog,0.19,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565972,None,49,BS,Black Sea Bass,0.154,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565973,None,49,BS,Tautog,0.168,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565974,None,49,BS,Tautog,0.17,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565975,None,49,BS,Black Sea Bass,0.154,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
 2,teleost,V6-2x,1565976,None,49,BS,Black Sea Bass,0.159,Juvenile,F,NA,Landscape Lab,9623,12,47,9,0.75,0.191489362,0.255319149,Transient,5,9,Shinnecock,1
-1,teleost,V6-2x,1565977,None,49,BS,Black Sea Bass,0.175,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565978,None,49,BS,Black Sea Bass,0.171,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565979,None,49,BS,Black Sea Bass,0.153,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565980,None,49,BS,Black Sea Bass,0.173,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565981,None,49,BS,Black Sea Bass,0.176,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565982,None,49,BS,Black Sea Bass,0.168,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565983,None,49,BS,Black Sea Bass,0.165,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V6-2x,1565984,None,49,BS,Tautog,0.151,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565977,None,49,BS,Black Sea Bass,0.175,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565978,None,49,BS,Black Sea Bass,0.171,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565979,None,49,BS,Black Sea Bass,0.153,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565980,None,49,BS,Black Sea Bass,0.173,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565981,None,49,BS,Black Sea Bass,0.176,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565982,None,49,BS,Black Sea Bass,0.168,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565983,None,49,BS,Black Sea Bass,0.165,Juvenile,F,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V6-2x,1565984,None,49,BS,Tautog,0.151,Juvenile,U,NA,Landscape Lab,0,0,0,0,0,0,0,None,0,0,NA,0
 2,elasmobranch,V16TP-1x,1566595,Press&Temp,3650,HN,Dusky,0.95,Immature,M,Southampton,Sunrise,360,18,69,10,0.555555556,0.144927536,0.260869565,Transient,6,9,"Moriches,Fire Island,Atlantic Beach",3
-1,teleost,V13AP-1X,15161955,Acc&Press,365,MF,Striped Bass,0.81,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
-1,teleost,V13AP-1x,15211510,Acc&Press,365,BS,Striped Bass,0.62,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1X,15161955,Acc&Press,365,MF,Striped Bass,0.81,NA,U,NA,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
+3,teleost,V13AP-1x,15211510,Acc&Press,365,BS,Striped Bass,0.62,NA,U,Shinnecock Bay,Southfork,0,0,0,0,0,0,0,None,0,0,NA,0
