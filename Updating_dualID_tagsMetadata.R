@@ -28,5 +28,6 @@ sn <- sharks %>%
 # Join with shark info
 ## Don't forget everythings in fucking UTC
 sharks %>% left_join(tags, by = c("Acoustic Serial Number" = "Serial No.")) %>% 
-  mutate(Hooked_UTC = with_tz(ymd_hms(Hooked), tzone = "UTC")) %>% 
+  mutate(Hooked_UTC = with_tz(ymd_hms(Hooked), tzone = "UTC"),
+         Code_ID = str_sub(`VUE Tag ID`, 10)) %>% 
   write_csv("matos_tagupdate.csv")
