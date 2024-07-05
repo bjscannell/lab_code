@@ -20,12 +20,10 @@ for (tag_file in files) {
 
 
 # Pull in file of tags that need to be added
-sn <- read_excel("/Users/brittneyscannell/Desktop/Shark_Capture.xlsx") %>%
+sharks <- read_excel("/Users/brittneyscannell/Desktop/Shark_Capture.xlsx") 
+sn <- sharks %>%
   pull(`Acoustic Serial Number`)
 
 
-tags %>% 
-  filter(`Serial No.` %in% sn) %>% 
-  write_csv("tag_update.csv")
-
-
+sharks %>% left_join(tags, by = c("Acoustic Serial Number" = "Serial No.")) %>% 
+  write_csv("matos_tagupdate.csv")
