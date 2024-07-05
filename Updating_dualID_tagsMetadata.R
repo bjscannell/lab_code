@@ -29,5 +29,9 @@ sn <- sharks %>%
 ## Don't forget everythings in fucking UTC
 sharks %>% left_join(tags, by = c("Acoustic Serial Number" = "Serial No.")) %>% 
   mutate(Hooked_UTC = with_tz(ymd_hms(Hooked), tzone = "UTC"),
-         Code_ID = str_sub(`VUE Tag ID`, 10)) %>% 
+         Code_ID = str_sub(`VUE Tag ID`, 10),
+         CodeSpace = str_sub(`VUE Tag ID`, 1,8),
+         Sex = str_sub(Sex,1,1)) %>% 
+  select(`Field ID`,`Acoustic Serial Number`, Code_ID, CodeSpace, 
+         Tagger, Species, Location,TL, FL, Sex, y, x, Hooked_UTC) %>% 
   write_csv("matos_tagupdate.csv")
