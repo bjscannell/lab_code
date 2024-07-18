@@ -11,7 +11,7 @@ setwd("/Users/brittneyscannell/Desktop")
 
 # Bind all tagging metadata together
 tags <- tibble()
-files <- list.files('.', full.names = TRUE, recursive = TRUE, pattern = "tag", ignore.case = TRUE)
+files <- list.files('.', full.names = TRUE, recursive = TRUE, pattern = "tagsheet", ignore.case = TRUE)
 
 for (tag_file in files) {
   print(tag_file)
@@ -21,7 +21,9 @@ for (tag_file in files) {
 
 
 # Pull in file of tags that need to be added
-sharks <- read_excel("/Users/brittneyscannell/Desktop/Shark_Capture.xlsx") 
+sharks <- read_csv("/Users/brittneyscannell/Desktop/Shark_Capture.csv",
+  col_types = cols(`Acoustic Serial Number` = col_character(),
+                 `Hooked` = col_datetime(format = "%m/%d/%Y %I:%M:%S %p")))
 sn <- sharks %>%
   pull(`Acoustic Serial Number`)
 
