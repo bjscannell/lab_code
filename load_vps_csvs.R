@@ -44,7 +44,7 @@ load_vps_files <- function() {
     
 
       # Get a list of all files in the subdirectory
-      files <- list.files(path = "detections", pattern = "\\.csv$", recursive = TRUE, full.names = TRUE)
+      files <- list.files(path = "detection_files", pattern = "\\.csv$", recursive = TRUE, full.names = TRUE)
       
       pb <- progress_bar$new(total = length(files))
       # Loop through each file and read it into a data frame
