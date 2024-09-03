@@ -23,7 +23,8 @@ for (tag_file in files) {
 # Pull in file of tags that need to be added
 sharks <- read_csv("/Users/brittneyscannell/Desktop/Shark_Capture.csv",
   col_types = cols(`Acoustic Serial Number` = col_character(),
-                 `Hooked` = col_datetime(format = "%m/%d/%Y %I:%M:%S %p")))
+                 `Hooked` = col_datetime(format = "%m/%d/%Y %I:%M:%S %p"))) %>% 
+  filter(`Acoustic Tag?` == "Yes" & Species != "Spinner" & Species != "Blacktip")
 sn <- sharks %>%
   pull(`Acoustic Serial Number`)
 
@@ -35,6 +36,7 @@ sharks %>% left_join(tags, by = c("Acoustic Serial Number" = "Serial No.")) %>%
          Sex = str_sub(Sex,1,1),
          Tag_Type = "Acoustic",
          Manufacturer = "Vemco",
+         Tag_Model = "V16",
          Implant_type = "Internal",
          Method = "",
          Activation = "",
@@ -56,11 +58,12 @@ sharks %>% left_join(tags, by = c("Acoustic Serial Number" = "Serial No.")) %>%
          dna = "Y",
          treatment_type = "",
          release_group = "",
+         release_location = "South Shore LI",
          time_zone = "UTC") %>% 
-  select(`Field ID`,Tag_Type,Manufacturer, `Acoustic Serial Number`, Code_ID, CodeSpace, 
+  select(`Field ID`,Tag_Type,Manufacturer,Tag_Model, `Acoustic Serial Number`, Code_ID, CodeSpace, 
          Implant_type, Method, Activation, Tag_Life, Tagger, Owner, Ogranization, Species, 
          Scientific_Name, Location, Cap_Lat, Cap_Lon, Wild, Stock, TL, Weight, Length_type,
          length2, LENGTH_TYPE2, Life_stage, age, age_unit, Sex, dna, treatment_type, release_group,
-         Location, y, x, Hooked, time_zone) %>% 
+         release_location, y, x, Hooked, time_zone) %>% 
   write_csv("matos_tagupdate.csv")
 
