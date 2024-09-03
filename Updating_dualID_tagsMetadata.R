@@ -52,7 +52,7 @@ sharks %>% left_join(tags, by = c("Acoustic Serial Number" = "Serial No.")) %>%
          LENGTH_TYPE2 = "",
          Life_stage = "",
          age = "",
-         age_units = "",
+         age_unit = "",
          dna = "Y",
          treatment_type = "",
          release_group = "",
@@ -63,3 +63,4 @@ sharks %>% left_join(tags, by = c("Acoustic Serial Number" = "Serial No.")) %>%
          length2, LENGTH_TYPE2, Life_stage, age, age_unit, Sex, dna, treatment_type, release_group,
          Location, y, x, Hooked, time_zone) %>% 
   write_csv("matos_tagupdate.csv")
+
